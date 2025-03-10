@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09F96C5-04CD-4548-949C-CDC7D6A8A496}|Lab2.csproj|c:\\users\\745_ats\\desktop\\smoop\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09F96C5-04CD-4548-949C-CDC7D6A8A496}|Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23715833-C3A1-493A-BF4C-0ED201E1EE04}|..\\Lab2Task2\\Lab2Task2.csproj|c:\\users\\745_ats\\desktop\\smoop\\lab2task2\\lab2task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23715833-C3A1-493A-BF4C-0ED201E1EE04}|..\\Lab2Task2\\Lab2Task2.csproj|c:\\users\\745_ats\\desktop\\smoop\\lab2task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab2Task2",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2Task2\\Lab2Task2.csproj",
+              "RelativeDocumentMoniker": "..\\Lab2Task2\\Lab2Task2.csproj",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2Task2\\Lab2Task2.csproj",
+              "RelativeToolTip": "..\\Lab2Task2\\Lab2Task2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T23:25:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2Task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab2Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2Task2\\Program.cs",
+              "RelativeToolTip": "..\\Lab2Task2\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:35:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP\\Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:27:02.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
