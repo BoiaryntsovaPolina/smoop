@@ -1,0 +1,15 @@
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\bin\Debug\net8.0\Lab2Task2.exe
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\bin\Debug\net8.0\Lab2Task2.deps.json
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\bin\Debug\net8.0\Lab2Task2.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\bin\Debug\net8.0\Lab2Task2.dll
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\bin\Debug\net8.0\Lab2Task2.pdb
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.sourcelink.json
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.dll
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\refint\Lab2Task2.dll
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.pdb
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\Lab2Task2.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP\Lab2Task2\obj\Debug\net8.0\ref\Lab2Task2.dll
