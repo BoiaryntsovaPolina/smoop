@@ -1,0 +1,15 @@
+D:\SMOOP\Lab4\bin\Debug\net8.0\Lab4.exe
+D:\SMOOP\Lab4\bin\Debug\net8.0\Lab4.deps.json
+D:\SMOOP\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+D:\SMOOP\Lab4\bin\Debug\net8.0\Lab4.dll
+D:\SMOOP\Lab4\bin\Debug\net8.0\Lab4.pdb
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.sourcelink.json
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.dll
+D:\SMOOP\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.pdb
+D:\SMOOP\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+D:\SMOOP\Lab4\obj\Debug\net8.0\ref\Lab4.dll

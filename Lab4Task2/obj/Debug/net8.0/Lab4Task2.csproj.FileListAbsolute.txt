@@ -1,0 +1,15 @@
+D:\SMOOP\Lab4Task2\bin\Debug\net8.0\Lab4Task2.exe
+D:\SMOOP\Lab4Task2\bin\Debug\net8.0\Lab4Task2.deps.json
+D:\SMOOP\Lab4Task2\bin\Debug\net8.0\Lab4Task2.runtimeconfig.json
+D:\SMOOP\Lab4Task2\bin\Debug\net8.0\Lab4Task2.dll
+D:\SMOOP\Lab4Task2\bin\Debug\net8.0\Lab4Task2.pdb
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.AssemblyInfoInputs.cache
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.AssemblyInfo.cs
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.sourcelink.json
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.dll
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\refint\Lab4Task2.dll
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.pdb
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\Lab4Task2.genruntimeconfig.cache
+D:\SMOOP\Lab4Task2\obj\Debug\net8.0\ref\Lab4Task2.dll
