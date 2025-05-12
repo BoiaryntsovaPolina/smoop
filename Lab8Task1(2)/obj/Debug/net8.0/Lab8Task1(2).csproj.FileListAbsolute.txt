@@ -1,0 +1,15 @@
+D:\SMOOP\Lab8Task1(2)\bin\Debug\net8.0\Lab8Task1(2).exe
+D:\SMOOP\Lab8Task1(2)\bin\Debug\net8.0\Lab8Task1(2).deps.json
+D:\SMOOP\Lab8Task1(2)\bin\Debug\net8.0\Lab8Task1(2).runtimeconfig.json
+D:\SMOOP\Lab8Task1(2)\bin\Debug\net8.0\Lab8Task1(2).dll
+D:\SMOOP\Lab8Task1(2)\bin\Debug\net8.0\Lab8Task1(2).pdb
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).AssemblyInfoInputs.cache
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).AssemblyInfo.cs
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).sourcelink.json
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).dll
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\refint\Lab8Task1(2).dll
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).pdb
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\Lab8Task1(2).genruntimeconfig.cache
+D:\SMOOP\Lab8Task1(2)\obj\Debug\net8.0\ref\Lab8Task1(2).dll

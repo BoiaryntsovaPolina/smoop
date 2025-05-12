@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMOOP\\Lab7Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|d:\\smoop\\lab7task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|d:\\smoop\\lab7task3\\bcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|solutionrelative:bcipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|d:\\smoop\\lab7task3\\acipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|solutionrelative:acipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|d:\\smoop\\lab7task3\\icipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4816A1-43BA-42FE-9347-01A760751E26}|Lab7Task3.csproj|solutionrelative:icipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BCipher.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task3\\BCipher.cs",
+              "RelativeDocumentMoniker": "BCipher.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task3\\BCipher.cs",
+              "RelativeToolTip": "BCipher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:19:34.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ACipher.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task3\\ACipher.cs",
+              "RelativeDocumentMoniker": "ACipher.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task3\\ACipher.cs",
+              "RelativeToolTip": "ACipher.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:12:02.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICipher.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task3\\ICipher.cs",
+              "RelativeDocumentMoniker": "ICipher.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task3\\ICipher.cs",
+              "RelativeToolTip": "ICipher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:10:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:09:14.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
