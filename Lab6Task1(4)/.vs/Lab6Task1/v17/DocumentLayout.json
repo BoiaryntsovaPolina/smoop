@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lab6Task1(4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|e:\\lab6task1(4)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|e:\\lab6task1(4)\\lab6task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|solutionrelative:lab6task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|e:\\lab6task1(4)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|e:\\lab6task1(4)\\personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|solutionrelative:personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|e:\\lab6task1(4)\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA74B68-DB01-4B3B-A92F-BAA7F6B44CC2}|Lab6Task1.csproj|solutionrelative:graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab6Task1.csproj",
+              "DocumentMoniker": "E:\\Lab6Task1(4)\\Lab6Task1.csproj",
+              "RelativeDocumentMoniker": "Lab6Task1.csproj",
+              "ToolTip": "E:\\Lab6Task1(4)\\Lab6Task1.csproj",
+              "RelativeToolTip": "Lab6Task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T05:26:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Lab6Task1(4)\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\Lab6Task1(4)\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:21:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraduateStudent.cs",
+              "DocumentMoniker": "E:\\Lab6Task1(4)\\GraduateStudent.cs",
+              "RelativeDocumentMoniker": "GraduateStudent.cs",
+              "ToolTip": "E:\\Lab6Task1(4)\\GraduateStudent.cs",
+              "RelativeToolTip": "GraduateStudent.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:22:35.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRandom.cs",
+              "DocumentMoniker": "E:\\Lab6Task1(4)\\PersonRandom.cs",
+              "RelativeDocumentMoniker": "PersonRandom.cs",
+              "ToolTip": "E:\\Lab6Task1(4)\\PersonRandom.cs",
+              "RelativeToolTip": "PersonRandom.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:24:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lab6Task1(4)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Lab6Task1(4)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:19:45.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

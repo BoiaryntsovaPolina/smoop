@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lab5.1(4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\productrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:productrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|e:\\lab5.1(4)\\lab5.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab5.1.csproj|solutionrelative:lab5.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab5.1.csproj",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\Lab5.1.csproj",
+              "RelativeDocumentMoniker": "Lab5.1.csproj",
+              "ToolTip": "E:\\Lab5.1(4)\\Lab5.1.csproj",
+              "RelativeToolTip": "Lab5.1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-31T23:46:43.178Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "E:\\Lab5.1(4)\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:38:56.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonRandom.cs",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\PersonRandom.cs",
+              "RelativeDocumentMoniker": "PersonRandom.cs",
+              "ToolTip": "E:\\Lab5.1(4)\\PersonRandom.cs",
+              "RelativeToolTip": "PersonRandom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:40:46.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\Lab5.1(4)\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:39:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRandom.cs",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\ProductRandom.cs",
+              "RelativeDocumentMoniker": "ProductRandom.cs",
+              "ToolTip": "E:\\Lab5.1(4)\\ProductRandom.cs",
+              "RelativeToolTip": "ProductRandom.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:54:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "E:\\Lab5.1(4)\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:41:42.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lab5.1(4)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Lab5.1(4)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:35:19.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
