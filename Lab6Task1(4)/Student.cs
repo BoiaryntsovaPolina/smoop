@@ -19,22 +19,6 @@ namespace Lab6Task1
             PossibleProfessions = new string[] { "Невідомо" };
         }
 
-        public Student(string? fullName, string? major, int enrollmentYear, double rating)
-        {
-            FullName = fullName ?? "Ім'я Прізвище";
-            Major = major ?? "Невідомо";
-
-            if (enrollmentYear < 1900 || enrollmentYear > DateTime.Now.Year)
-                enrollmentYear = DateTime.Now.Year;
-
-            if (rating < 0 || rating > 100)
-                rating = 0.0;
-
-            EnrollmentYear = enrollmentYear;
-            Rating = rating;
-            PossibleProfessions = new string[] { "Невідомо" };
-        }
-
         public Student(string? fullName, string? major, int enrollmentYear, double rating, string[] professions)
         {
             FullName = fullName ?? "Ім'я Прізвище";
@@ -54,17 +38,6 @@ namespace Lab6Task1
         public virtual void Print()
         {
             Console.WriteLine(ToString());
-        }
-
-        public override string ToString()
-        {
-            string professions = PossibleProfessions != null ? String.Join(", ", PossibleProfessions) : "Невідомо";
-            return $"Студент: {FullName}, Спеціальність: {Major}, Рік вступу: {EnrollmentYear}, Рейтинг: {Rating}, Можливі професії: {professions}";
-        }
-
-        public virtual string ToShortString()
-        {
-            return $"Студент: {FullName}, Рейтинг: {Rating}";
         }
 
         public void ChangeMajor(string? newMajor)
@@ -98,19 +71,22 @@ namespace Lab6Task1
 
         public override bool Equals(object? obj)
         {
-            if (obj == null || GetType() != obj.GetType())
-                return false;
-
-            Student other = (Student)obj;
-            return FullName == other.FullName &&
-                   Major == other.Major &&
-                   EnrollmentYear == other.EnrollmentYear &&
-                   Rating == other.Rating;
+            if (obj is Student)
+            {
+                return ToString().Equals(((Student)obj).ToString());
+            }
+            return false;
+        }
+        public override int GetHashCode() { return ToString().GetHashCode(); }
+        public override string ToString()
+        {
+            string professions = PossibleProfessions != null ? String.Join(", ", PossibleProfessions) : "Невідомо";
+            return $"Студент: {FullName}, Спеціальність: {Major}, Рік вступу: {EnrollmentYear}, Рейтинг: {Rating}, Можливі професії: {professions}";
         }
 
-        public override int GetHashCode()
+        public virtual string ToShortString()
         {
-            return HashCode.Combine(FullName, Major, EnrollmentYear, Rating);
+            return $"Студент: {FullName}, Рейтинг: {Rating}";
         }
     }
 }

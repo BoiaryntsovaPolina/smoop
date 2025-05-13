@@ -42,3 +42,31 @@ C:\Users\745_ATS\Desktop\Lab6Task1(3) — копия\obj\Debug\net8.0\refint\Lab
 C:\Users\745_ATS\Desktop\Lab6Task1(3) — копия\obj\Debug\net8.0\Lab6Task1.pdb
 C:\Users\745_ATS\Desktop\Lab6Task1(3) — копия\obj\Debug\net8.0\Lab6Task1.genruntimeconfig.cache
 C:\Users\745_ATS\Desktop\Lab6Task1(3) — копия\obj\Debug\net8.0\ref\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(4)\bin\Debug\net8.0\Lab6Task1.exe
+E:\Lab_Дороблені\Lab6Task1(4)\bin\Debug\net8.0\Lab6Task1.deps.json
+E:\Lab_Дороблені\Lab6Task1(4)\bin\Debug\net8.0\Lab6Task1.runtimeconfig.json
+E:\Lab_Дороблені\Lab6Task1(4)\bin\Debug\net8.0\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(4)\bin\Debug\net8.0\Lab6Task1.pdb
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.AssemblyInfoInputs.cache
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.AssemblyInfo.cs
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.csproj.CoreCompileInputs.cache
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\refint\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.pdb
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\Lab6Task1.genruntimeconfig.cache
+E:\Lab_Дороблені\Lab6Task1(4)\obj\Debug\net8.0\ref\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(5)\bin\Debug\net8.0\Lab6Task1.exe
+E:\Lab_Дороблені\Lab6Task1(5)\bin\Debug\net8.0\Lab6Task1.deps.json
+E:\Lab_Дороблені\Lab6Task1(5)\bin\Debug\net8.0\Lab6Task1.runtimeconfig.json
+E:\Lab_Дороблені\Lab6Task1(5)\bin\Debug\net8.0\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(5)\bin\Debug\net8.0\Lab6Task1.pdb
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.AssemblyInfoInputs.cache
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.AssemblyInfo.cs
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.csproj.CoreCompileInputs.cache
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\refint\Lab6Task1.dll
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.pdb
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\Lab6Task1.genruntimeconfig.cache
+E:\Lab_Дороблені\Lab6Task1(5)\obj\Debug\net8.0\ref\Lab6Task1.dll

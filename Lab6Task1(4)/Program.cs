@@ -59,8 +59,8 @@ internal class Program
         student1.Print();
 
         // Порівняння студентів
-        Student student2 = new Student("Іваненко Іван", "Кібербезпека", 2022, 95.2);
-        Student student3 = new Student("Петренко Петро", "Комп'ютерні науки", 2021, 80.1);
+        Student student2 = new Student("Іваненко Іван", "Кібербезпека", 2022, 95.2, programmingProfessions);
+        Student student3 = new Student("Петренко Петро", "Комп'ютерні науки", 2021, 80.1, programmingProfessions);
 
         Console.WriteLine("\nПорівняння студентів:");
         Console.WriteLine("Student1 == Student2? " + student1.Equals(student2));
@@ -91,16 +91,5 @@ internal class Program
         Console.WriteLine($"Чи хоче бути Спеціаліст з кібербезпеки? {graduate1.WantsThisProfession("Спеціаліст з кібербезпеки")}");
         Console.WriteLine($"Чи хоче працювати в Microsoft? {graduate1.WantsThisProfession("Microsoft")}");
         Console.WriteLine($"Чи хоче бути Програмістом? {graduate1.WantsThisProfession("Програміст")}");
-
-        // Тестування обробки null-значень
-        Console.WriteLine("\n===== Тестування обробки null-значень =====");
-
-        Student nullStudent = new Student(null, null, 2025, 105.0);
-        Console.WriteLine("\nСтудент з null-значеннями:");
-        nullStudent.Print();
-
-        GraduateStudent nullGraduate = new GraduateStudent(null, null, 2018, -5.0, null, null);
-        Console.WriteLine("\nВипускник з null-значеннями:");
-        nullGraduate.Print();
     }
 }
