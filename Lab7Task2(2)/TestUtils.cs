@@ -38,37 +38,47 @@ namespace Lab7Task2_2_
         // Демонстрація різних видів списків
         private static void DemonstrateListings(Registry registry)
         {
-            CommonUtils.PrintHeader("ВИВЕДЕННЯ ВСІХ ПРИСТРОЇВ");
+            Console.WriteLine("ВИВЕДЕННЯ ВСІХ ПРИСТРОЇВ");
             registry.DisplayAllDevices();
-            CommonUtils.WaitForKey();
+            Console.WriteLine("Натисніть клавішу");
+            Console.WriteLine("---------------------------------");
+            Console.ReadKey();
 
-            CommonUtils.PrintHeader("ВИВЕДЕННЯ ЕЛЕКТРОННОГО ОБЛАДНАННЯ");
+            Console.WriteLine("ВИВЕДЕННЯ ЕЛЕКТРОННОГО ОБЛАДНАННЯ");
             registry.DisplayElectronicDevices();
-            CommonUtils.WaitForKey();
+            Console.WriteLine("Натисніть клавішу");
+            Console.WriteLine("---------------------------------");
+            Console.ReadKey();
 
-            CommonUtils.PrintHeader("ВИВЕДЕННЯ ОБЛАДНАННЯ БЕЗ ДВИГУНІВ");
+            Console.WriteLine("ВИВЕДЕННЯ ОБЛАДНАННЯ БЕЗ ДВИГУНІВ");
             registry.DisplayDevicesWithoutEngines();
-            CommonUtils.WaitForKey();
+            Console.WriteLine("Натисніть клавішу");
+            Console.WriteLine("---------------------------------");
+            Console.ReadKey();
         }
 
         // Демонстрація сортування
         private static void DemonstrateSorting(Registry registry)
         {
-            CommonUtils.PrintHeader("СОРТУВАННЯ ЗА ВАГОЮ");
+            Console.WriteLine("СОРТУВАННЯ ЗА ВАГОЮ");
             registry.SortByWeight();
             registry.DisplayAllDevices();
-            CommonUtils.WaitForKey();
+            Console.WriteLine("Натисніть клавішу");
+            Console.WriteLine("---------------------------------");
+            Console.ReadKey();
 
-            CommonUtils.PrintHeader("СОРТУВАННЯ ЗА РОКОМ ВИРОБНИЦТВА");
+            Console.WriteLine("СОРТУВАННЯ ЗА РОКОМ ВИРОБНИЦТВА");
             registry.SortByYear();
             registry.DisplayAllDevices();
-            CommonUtils.WaitForKey();
+            Console.WriteLine("Натисніть клавішу");
+            Console.WriteLine("---------------------------------");
+            Console.ReadKey();
         }
 
         // Демонстрація клонування
         private static void DemonstrateCloning(Registry registry)
         {
-            CommonUtils.PrintHeader("ДЕМОНСТРАЦІЯ КЛОНУВАННЯ");
+            Console.WriteLine("ДЕМОНСТРАЦІЯ КЛОНУВАННЯ");
 
             // Клонуємо перший пристрій
             Device? originalDevice = registry.CloneDevice(0);

@@ -29,25 +29,6 @@ namespace Lab7Task2_2_
         public static double GetRandomWeight(double min, double max)
         {
             return Math.Round(min + (max - min) * rnd.NextDouble(), 1);
-        }
-
-        // Метод для виведення роздільника
-        public static void PrintDivider(char symbol = '-', int length = 40)
-        {
-            Console.WriteLine(new string(symbol, length));
-        }
-
-        // Метод для виведення заголовку з рамкою
-        public static void PrintHeader(string header)
-        {
-            Console.WriteLine("\n" + new string('=', 5) + " " + header + " " + new string('=', 5));
-        }
-
-        // Метод для очікування натискання клавіші з повідомленням
-        public static void WaitForKey(string message = "\nНатисніть будь-яку клавішу для продовження...")
-        {
-            Console.WriteLine(message);
-            Console.ReadKey();
-        }
+        }        
     }
 }
