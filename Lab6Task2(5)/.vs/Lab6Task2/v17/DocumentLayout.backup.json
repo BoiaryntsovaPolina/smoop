@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|e:\\lab_\u0434\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab6task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|e:\\lab_\u0434\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab6task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\administration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|solutionrelative:administration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|e:\\lab_\u0434\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab6task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|e:\\lab_\u0434\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab6task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|solutionrelative:engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|e:\\lab_\u0434\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab6task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\workerrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|solutionrelative:workerrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|e:\\lab_\u0434\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab6task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B917E173-7497-48FA-A422-9128B0F83F4B}|Lab6Task2.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:45:08.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerRandom.cs",
+              "DocumentMoniker": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\WorkerRandom.cs",
+              "RelativeDocumentMoniker": "WorkerRandom.cs",
+              "ToolTip": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\WorkerRandom.cs",
+              "RelativeToolTip": "WorkerRandom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:49:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:46:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Engineer.cs",
+              "RelativeDocumentMoniker": "Engineer.cs",
+              "ToolTip": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Engineer.cs",
+              "RelativeToolTip": "Engineer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:46:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administration.cs",
+              "DocumentMoniker": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Administration.cs",
+              "RelativeDocumentMoniker": "Administration.cs",
+              "ToolTip": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Administration.cs",
+              "RelativeToolTip": "Administration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:47:03.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Lab_\u0414\u043E\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab6Task2(5) \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:44:18.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
