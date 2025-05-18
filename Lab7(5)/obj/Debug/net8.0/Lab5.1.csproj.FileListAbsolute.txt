@@ -1,0 +1,44 @@
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.AssemblyInfoInputs.cache
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.AssemblyInfo.cs
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.sourcelink.json
+D:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.exe
+D:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.deps.json
+D:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.runtimeconfig.json
+D:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.dll
+D:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.pdb
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.dll
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\refint\Lab5.1.dll
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.pdb
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.genruntimeconfig.cache
+D:\SMOOP\Lab5.1\obj\Debug\net8.0\ref\Lab5.1.dll
+E:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.exe
+E:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.deps.json
+E:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.runtimeconfig.json
+E:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.dll
+E:\SMOOP\Lab5.1\bin\Debug\net8.0\Lab5.1.pdb
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.AssemblyInfoInputs.cache
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.AssemblyInfo.cs
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.csproj.CoreCompileInputs.cache
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.sourcelink.json
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.dll
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\refint\Lab5.1.dll
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.pdb
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\Lab5.1.genruntimeconfig.cache
+E:\SMOOP\Lab5.1\obj\Debug\net8.0\ref\Lab5.1.dll
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.dll
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\refint\Lab5.1.dll
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.pdb
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\bin\Debug\net8.0\Lab5.1.exe
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\bin\Debug\net8.0\Lab5.1.deps.json
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\bin\Debug\net8.0\Lab5.1.runtimeconfig.json
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\bin\Debug\net8.0\Lab5.1.dll
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\bin\Debug\net8.0\Lab5.1.pdb
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\Lab5.1.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\Lab5.1(3) — копия\obj\Debug\net8.0\ref\Lab5.1.dll

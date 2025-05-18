@@ -1,0 +1,45 @@
+D:\SMOOP\Lab7 — копия\bin\Debug\net8.0\Lab7.exe
+D:\SMOOP\Lab7 — копия\bin\Debug\net8.0\Lab7.deps.json
+D:\SMOOP\Lab7 — копия\bin\Debug\net8.0\Lab7.runtimeconfig.json
+D:\SMOOP\Lab7 — копия\bin\Debug\net8.0\Lab7.dll
+D:\SMOOP\Lab7 — копия\bin\Debug\net8.0\Lab7.pdb
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.AssemblyInfoInputs.cache
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.AssemblyInfo.cs
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.sourcelink.json
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.dll
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\refint\Lab7.dll
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.pdb
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\Lab7.genruntimeconfig.cache
+D:\SMOOP\Lab7 — копия\obj\Debug\net8.0\ref\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия\bin\Debug\net8.0\Lab7.exe
+D:\SMOOP\Lab7 — копия — копия\bin\Debug\net8.0\Lab7.deps.json
+D:\SMOOP\Lab7 — копия — копия\bin\Debug\net8.0\Lab7.runtimeconfig.json
+D:\SMOOP\Lab7 — копия — копия\bin\Debug\net8.0\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия\bin\Debug\net8.0\Lab7.pdb
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.AssemblyInfoInputs.cache
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.AssemblyInfo.cs
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.sourcelink.json
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\refint\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.pdb
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\Lab7.genruntimeconfig.cache
+D:\SMOOP\Lab7 — копия — копия\obj\Debug\net8.0\ref\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия — копия\bin\Debug\net8.0\Lab7.exe
+D:\SMOOP\Lab7 — копия — копия — копия\bin\Debug\net8.0\Lab7.deps.json
+D:\SMOOP\Lab7 — копия — копия — копия\bin\Debug\net8.0\Lab7.runtimeconfig.json
+D:\SMOOP\Lab7 — копия — копия — копия\bin\Debug\net8.0\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия — копия\bin\Debug\net8.0\Lab7.pdb
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.AssemblyInfoInputs.cache
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.AssemblyInfo.cs
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.sourcelink.json
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\refint\Lab7.dll
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.pdb
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\Lab7.genruntimeconfig.cache
+D:\SMOOP\Lab7 — копия — копия — копия\obj\Debug\net8.0\ref\Lab7.dll
