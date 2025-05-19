@@ -1,82 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SMOOP\\Lab7Task2(2)\\",
+  "WorkspaceRootPath": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\hotairballoonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:hotairballoonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\deltaplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:deltaplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\flyingcarpetutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:flyingcarpetutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\devicerandomfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:devicerandomfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\testutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:testutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\airplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\airplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:airplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\helicopterutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:helicopterutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\flyingcarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\flyingcarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:flyingcarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\deltaplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\testutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:testutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\deltaplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:deltaplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\hotairballoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\hotairballoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:hotairballoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\ipart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\ipart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:ipart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2)\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\devicerandomfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:devicerandomfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\flyingcarpetutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:flyingcarpetutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\deltaplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:deltaplaneutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\hotairballoonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:hotairballoonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\helicopterutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:helicopterutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|d:\\smoop\\lab7task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D678DD-A7A3-4E67-A4F5-9684658EE38C}|Lab7Task2(2).csproj|solutionrelative:commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,243 +86,251 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TestUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\TestUtils.cs",
-              "RelativeDocumentMoniker": "TestUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\TestUtils.cs",
-              "RelativeToolTip": "TestUtils.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:53:14.308Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "DeviceRandomFactory.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\DeviceRandomFactory.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DeviceRandomFactory.cs",
               "RelativeDocumentMoniker": "DeviceRandomFactory.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\DeviceRandomFactory.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DeviceRandomFactory.cs",
               "RelativeToolTip": "DeviceRandomFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:51:07.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T20:51:07.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "FlyingCarpetUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\FlyingCarpetUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FlyingCarpetUtils.cs",
               "RelativeDocumentMoniker": "FlyingCarpetUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\FlyingCarpetUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FlyingCarpetUtils.cs",
               "RelativeToolTip": "FlyingCarpetUtils.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:50:02.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T20:50:02.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "DeltaplaneUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\DeltaplaneUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DeltaplaneUtils.cs",
               "RelativeDocumentMoniker": "DeltaplaneUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\DeltaplaneUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\DeltaplaneUtils.cs",
               "RelativeToolTip": "DeltaplaneUtils.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:49:30.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T20:49:30.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "HotAirBalloonUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\HotAirBalloonUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\HotAirBalloonUtils.cs",
               "RelativeDocumentMoniker": "HotAirBalloonUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\HotAirBalloonUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\HotAirBalloonUtils.cs",
               "RelativeToolTip": "HotAirBalloonUtils.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:48:48.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T20:48:48.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "HelicopterUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\HelicopterUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\HelicopterUtils.cs",
               "RelativeDocumentMoniker": "HelicopterUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\HelicopterUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\HelicopterUtils.cs",
               "RelativeToolTip": "HelicopterUtils.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T20:47:59.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "CommonUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\CommonUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\CommonUtils.cs",
               "RelativeDocumentMoniker": "CommonUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\CommonUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\CommonUtils.cs",
               "RelativeToolTip": "CommonUtils.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:47:03.497Z",
+              "WhenOpened": "2025-05-06T20:47:03.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirplaneUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\AirplaneUtils.cs",
+              "RelativeDocumentMoniker": "AirplaneUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\AirplaneUtils.cs",
+              "RelativeToolTip": "AirplaneUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:45:14.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AirplaneUtils.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\AirplaneUtils.cs",
-              "RelativeDocumentMoniker": "AirplaneUtils.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\AirplaneUtils.cs",
-              "RelativeToolTip": "AirplaneUtils.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:45:14.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Registry.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\Registry.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Registry.cs",
               "RelativeDocumentMoniker": "Registry.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\Registry.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Registry.cs",
               "RelativeToolTip": "Registry.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAmwMcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T20:13:17.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "FlyingCarpet.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\FlyingCarpet.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FlyingCarpet.cs",
               "RelativeDocumentMoniker": "FlyingCarpet.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\FlyingCarpet.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FlyingCarpet.cs",
               "RelativeToolTip": "FlyingCarpet.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:08:17.054Z"
+              "WhenOpened": "2025-05-06T20:08:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestUtils.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\TestUtils.cs",
+              "RelativeDocumentMoniker": "TestUtils.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\TestUtils.cs",
+              "RelativeToolTip": "TestUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:53:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deltaplane.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Deltaplane.cs",
+              "RelativeDocumentMoniker": "Deltaplane.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Deltaplane.cs",
+              "RelativeToolTip": "Deltaplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:03:34.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotAirBalloon.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\HotAirBalloon.cs",
+              "RelativeDocumentMoniker": "HotAirBalloon.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\HotAirBalloon.cs",
+              "RelativeToolTip": "HotAirBalloon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:57:35.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Helicopter.cs",
+              "RelativeDocumentMoniker": "Helicopter.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Helicopter.cs",
+              "RelativeToolTip": "Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:47:54.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Airplane.cs",
+              "RelativeDocumentMoniker": "Airplane.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Airplane.cs",
+              "RelativeToolTip": "Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:34:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Device.cs",
+              "RelativeDocumentMoniker": "Device.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Device.cs",
+              "RelativeToolTip": "Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:02:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPart.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\IPart.cs",
+              "RelativeDocumentMoniker": "IPart.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\IPart.cs",
+              "RelativeToolTip": "IPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:56:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\IEngine.cs",
+              "RelativeDocumentMoniker": "IEngine.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\IEngine.cs",
+              "RelativeToolTip": "IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:54:14.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Deltaplane.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\Deltaplane.cs",
-              "RelativeDocumentMoniker": "Deltaplane.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\Deltaplane.cs",
-              "RelativeToolTip": "Deltaplane.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\IDevice.cs",
+              "RelativeDocumentMoniker": "IDevice.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\IDevice.cs",
+              "RelativeToolTip": "IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T20:03:34.018Z"
+              "WhenOpened": "2025-05-06T17:51:02.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HotAirBalloon.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\HotAirBalloon.cs",
-              "RelativeDocumentMoniker": "HotAirBalloon.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\HotAirBalloon.cs",
-              "RelativeToolTip": "HotAirBalloon.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T19:57:35.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Helicopter.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\Helicopter.cs",
-              "RelativeDocumentMoniker": "Helicopter.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\Helicopter.cs",
-              "RelativeToolTip": "Helicopter.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:47:54.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Airplane.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\Airplane.cs",
-              "RelativeDocumentMoniker": "Airplane.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\Airplane.cs",
-              "RelativeToolTip": "Airplane.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:34:52.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Device.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\Device.cs",
-              "RelativeDocumentMoniker": "Device.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\Device.cs",
-              "RelativeToolTip": "Device.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:02:30.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IPart.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\IPart.cs",
-              "RelativeDocumentMoniker": "IPart.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\IPart.cs",
-              "RelativeToolTip": "IPart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:56:56.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IEngine.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\IEngine.cs",
-              "RelativeDocumentMoniker": "IEngine.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\IEngine.cs",
-              "RelativeToolTip": "IEngine.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:54:14.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IDevice.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\IDevice.cs",
-              "RelativeDocumentMoniker": "IDevice.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\IDevice.cs",
-              "RelativeToolTip": "IDevice.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:51:02.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2)\\Program.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7Task2(2)\\Program.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7Task2(2) \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:49:35.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T17:49:35.902Z"
             }
           ]
         }

@@ -14,6 +14,5 @@ namespace Lab7Task2_2_
         double Weight { get; set; }
         bool HasElectronics { get; }
 
-        void DisplayInfo();
     }
 }

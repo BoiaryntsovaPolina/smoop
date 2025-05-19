@@ -34,15 +34,21 @@ namespace Lab7Task2_2_
             return (currentYear - YearOfManufacture) <= 5;
         }
 
-        public override void DisplayInfo()
+        public override bool Equals(object? obj)
         {
-            base.DisplayInfo();
-            Console.WriteLine($"Назва частини: {PartName}");
-            Console.WriteLine($"Матеріал: {Material}");
-            Console.WriteLine($"Вага частини: {PartWeight} кг");
-            Console.WriteLine($"Місткість корзини: {BasketCapacity} осіб");
-            Console.WriteLine($"Об'єм оболонки: {EnvelopeVolume} м³");
-            Console.WriteLine($"Стан: {(CheckCondition() ? "Добрий" : "Потребує перевірки")}");
+            if (obj is HotAirBalloon)
+            {
+                return ToString().Equals(((HotAirBalloon)obj).ToString());
+            }
+            return false;
+        }
+
+        public override int GetHashCode() { return ToString().GetHashCode(); }
+
+        public override string ToString()
+        {
+            return $"{ base.ToString()}, \nНазва частини: {PartName}, \nМатеріал: {Material}, \nВага частини: {PartWeight} кг, \nМісткість корзини: {BasketCapacity} осіб" +
+                $"\nОб'єм оболонки: {EnvelopeVolume} м³, \nСтан: {(CheckCondition() ? "Добрий" : "Потребує перевірки")}";
         }
     }
 }

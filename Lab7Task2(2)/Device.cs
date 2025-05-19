@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Lab7Task2_2_
 {
-    abstract class Device : IDevice, ICloneable, IComparable
+    abstract class Device : IDevice, ICloneable, IComparable<Device> 
     {
         public string? Name { get; set; } = "Невідомий пристрій";
         public string? Model { get; set; } = "Невідома модель";
@@ -22,22 +23,20 @@ namespace Lab7Task2_2_
             Weight=weight;
         }
 
-        public virtual void DisplayInfo()
+        public override string ToString()
         {
-            Console.WriteLine("-----Інформація про пристрій-----");
-            Console.WriteLine($"Назва: {Name}");
-            Console.WriteLine($"Модель: {Model}");
-            Console.WriteLine($"Рік виробництва: {YearOfManufacture}");
-            Console.WriteLine($"Вага: {Weight} кг");
-            Console.WriteLine($"Має електроніку: {(HasElectronics ? "Так" : "Ні")}");
+            return $"Назва: {Name}, \nМодель: {Model}, \nРік виробництва: {YearOfManufacture}, \nВага: {Weight} кг, \nМає електроніку: {(HasElectronics ? "Так" : "Ні")}";
         }
+
+
+
 
         public virtual object Clone()
         {
             return this.MemberwiseClone();
         }
 
-        public virtual int CompareTo(object obj)
+        public virtual int CompareTo(Device? obj)
         {
 
             if (obj == null) return 1;

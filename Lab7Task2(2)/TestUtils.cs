@@ -83,11 +83,11 @@ namespace Lab7Task2_2_
             // Клонуємо перший пристрій
             Device? originalDevice = registry.CloneDevice(0);
             Console.WriteLine("Оригінальний пристрій:");
-            originalDevice.DisplayInfo();
+            Console.WriteLine(originalDevice.ToString());
 
             Device? clonedDevice = (Device?)originalDevice?.Clone();
             Console.WriteLine("\nКлонований пристрій:");
-            clonedDevice?.DisplayInfo();
+            Console.WriteLine(clonedDevice?.ToString());
 
             // Змінюємо властивості клонованого пристрою
             if (clonedDevice is Airplane)
@@ -97,7 +97,7 @@ namespace Lab7Task2_2_
                 clonedAirplane.YearOfManufacture = DateTime.Now.Year;
 
                 Console.WriteLine("\nКлонований пристрій після змін:");
-                clonedAirplane.DisplayInfo();
+                Console.WriteLine(clonedAirplane.ToString());
             }
         }
     }

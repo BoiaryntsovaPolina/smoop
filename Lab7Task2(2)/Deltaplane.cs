@@ -34,15 +34,21 @@ namespace Lab7Task2_2_
             return (currentYear - YearOfManufacture) <= 3;
         }
 
-        public override void DisplayInfo()
+        public override bool Equals(object? obj)
         {
-            base.DisplayInfo();
-            Console.WriteLine($"Назва частини: {PartName}");
-            Console.WriteLine($"Матеріал: {Material}");
-            Console.WriteLine($"Вага частини: {PartWeight} кг");
-            Console.WriteLine($"Розмах крила: {WingSpan} м");
-            Console.WriteLine($"Аеродинамічна якість: {GlideRatio}");
-            Console.WriteLine($"Стан: {(CheckCondition() ? "Добрий" : "Потребує перевірки")}");
+            if (obj is Deltaplane)
+            {
+                return ToString().Equals(((Deltaplane)obj).ToString());
+            }
+            return false;
+        }
+
+        public override int GetHashCode() { return ToString().GetHashCode(); }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, \nНазва частини: {PartName}, \nМатеріал: {Material}, \nВага частини: {PartWeight} кг, \nРозмах крила: {WingSpan} м" +
+                $"\nАеродинамічна якість: {GlideRatio}, \nСтан: {(CheckCondition() ? "Добрий" : "Потребує перевірки")}";
         }
     }
 }

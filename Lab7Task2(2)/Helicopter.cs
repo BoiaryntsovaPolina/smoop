@@ -52,14 +52,24 @@ namespace Lab7Task2_2_
             }
         }
 
-        public override void DisplayInfo()
+        public override bool Equals(object? obj)                                               
         {
-            base.DisplayInfo();
-            Console.WriteLine($"Тип двигуна: {EngineType}");
-            Console.WriteLine($"Потужність: {HorsePower} к.с.");
-            Console.WriteLine($"Двигун активний: {(IsActive ? "Так" : "Ні")}");
-            Console.WriteLine($"Діаметр ротора: {RotorDiameter} м");
-            Console.WriteLine($"Максимальна швидкість: {MaxSpeed} км/год");
+            if (obj is Helicopter)
+            {
+                return ToString().Equals(((Helicopter)obj).ToString());
+            }
+            return false;
         }
+
+        public override int GetHashCode() { return ToString().GetHashCode(); }
+
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, \nТип двигуна: {EngineType}, \nПотужність: {HorsePower} к.с., \nДвигун активний: {(IsActive ? "Так" : "Ні")}" +
+                $"\nДіаметр ротора: {RotorDiameter} м, \nМаксимальна швидкість: {MaxSpeed} км/год";
+        }
+
+
     }
 }

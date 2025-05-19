@@ -33,17 +33,6 @@ namespace Lab7Task2_2_
             return MagicPower > 50;
         }
 
-        public override void DisplayInfo()
-        {
-            base.DisplayInfo();
-            Console.WriteLine($"Назва частини: {PartName}");
-            Console.WriteLine($"Матеріал: {Material}");
-            Console.WriteLine($"Вага частини: {PartWeight} кг");
-            Console.WriteLine($"Тип магії: {MagicType}");
-            Console.WriteLine($"Сила магії: {MagicPower}");
-            Console.WriteLine($"Стан: {(CheckCondition() ? "Добрий" : "Потребує підзарядки")}");
-        }
-
         // Додатковий метод для килимів
         public void Fly()
         {
@@ -56,6 +45,23 @@ namespace Lab7Task2_2_
             {
                 Console.WriteLine($"Килим {Name} не може злетіти - недостатньо магічної сили!");
             }
+        }
+
+        public override bool Equals(object? obj)
+        {
+            if (obj is FlyingCarpet)
+            {
+                return ToString().Equals(((FlyingCarpet)obj).ToString());
+            }
+            return false;
+        }
+
+        public override int GetHashCode() { return ToString().GetHashCode(); }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, \nНазва частини: {PartName}, \nМатеріал: {Material}, \nВага частини: {PartWeight} кг, \nТип магії: {MagicType}" +
+                $"\nСила магії: {MagicPower}, \nСтан: {(CheckCondition() ? "Добрий" : "Потребує підзарядки")}";
         }
     }
 }

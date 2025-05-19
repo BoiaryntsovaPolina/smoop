@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab7Task2_2_
 {
-    internal class Airplane : Device, IEngine
+    internal class Airplane : Device, IEngine 
     {
        
         public string? EngineType { get; set; } = "Турбореактивний";
@@ -52,14 +52,23 @@ namespace Lab7Task2_2_
             }
         }
 
-        public override void DisplayInfo()
+        public override bool Equals(object? obj)                                               
         {
-            base.DisplayInfo();
-            Console.WriteLine($"Тип двигуна: {EngineType}");
-            Console.WriteLine($"Потужність: {HorsePower} к.с.");
-            Console.WriteLine($"Двигун активний: {(IsActive ? "Так" : "Ні")}");
-            Console.WriteLine($"Максимальна висота: {MaxAltitude} м");
-            Console.WriteLine($"Пасажиромісткість: {PassengerCapacity} осіб");
+            if (obj is Airplane)
+            {
+                return ToString().Equals(((Airplane)obj).ToString());
+            }
+            return false;
         }
+
+        public override int GetHashCode() { return ToString().GetHashCode(); }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, \nТип двигуна: {EngineType}, \nПотужність: {HorsePower}, \nДвигун активний: {(IsActive ? "Так" : "Ні")}, " +
+                $"\nМаксимальна висота: {MaxAltitude} м, \nПасажиромісткість: {PassengerCapacity} осіб";
+
+        }
+
     }
 }

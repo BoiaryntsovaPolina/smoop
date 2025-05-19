@@ -1,3 +1,9 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace Lab7Task2_2_
 {
     class Registry
@@ -68,7 +74,7 @@ namespace Lab7Task2_2_
             for (int i = 0; i < count; i++)
             {
                 Console.WriteLine($"\n--- Пристрій #{i + 1} ---");
-                devices[i].DisplayInfo();
+                Console.WriteLine(devices[i].ToString());
             }
         }
 
@@ -84,7 +90,7 @@ namespace Lab7Task2_2_
                 if (devices[i].HasElectronics)
                 {
                     Console.WriteLine($"\n--- Електронний пристрій #{i + 1} ---");
-                    devices[i].DisplayInfo();
+                    Console.WriteLine(devices[i].ToString());
                     found = true;
                 }
             }
@@ -108,7 +114,7 @@ namespace Lab7Task2_2_
                 if (!(devices[i] is IEngine))
                 {
                     Console.WriteLine($"\n--- Пристрій без двигуна #{i + 1} ---");
-                    devices[i].DisplayInfo();
+                    Console.WriteLine(devices[i].ToString());
                     found = true;
                 }
             }
