@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "WorkspaceRootPath": "D:\\SMOOP\\Lab7(5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\shopcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:shopcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\shopenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:shopenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\utilits\\shoprandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\utilits\\shoprandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:utilits\\shoprandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\interfaces\\ifilecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:interfaces\\ifilecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\interfaces\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:interfaces\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\utilits\\personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\utilits\\personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:utilits\\personrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\utilits\\productrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\lab7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:lab7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\utilits\\productrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:utilits\\productrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\classes\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:classes\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\lab7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:lab7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\shopcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:shopcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\shopenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:shopenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\interfaces\\ifilecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:interfaces\\ifilecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\interfaces\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:interfaces\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\classes\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:classes\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|d:\\smoop\\lab7(5)\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A9964-0163-490F-9DB4-4DA4CB875252}|Lab7.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,20 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Lab7.csproj",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab7.csproj",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Lab7.csproj",
               "RelativeDocumentMoniker": "Lab7.csproj",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab7.csproj",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Lab7.csproj",
               "RelativeToolTip": "Lab7.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-31T23:46:43.178Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -79,135 +80,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "IContainer.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Interfaces\\IContainer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IContainer.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Interfaces\\IContainer.cs",
+              "RelativeToolTip": "Interfaces\\IContainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:23:23.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileContainer.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Interfaces\\IFileContainer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileContainer.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Interfaces\\IFileContainer.cs",
+              "RelativeToolTip": "Interfaces\\IFileContainer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:24:05.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ShopEnumerator.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\ShopEnumerator.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\ShopEnumerator.cs",
               "RelativeDocumentMoniker": "ShopEnumerator.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\ShopEnumerator.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\ShopEnumerator.cs",
               "RelativeToolTip": "ShopEnumerator.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T08:54:07.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ShopContainer.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\ShopContainer.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\ShopContainer.cs",
               "RelativeDocumentMoniker": "ShopContainer.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\ShopContainer.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\ShopContainer.cs",
               "RelativeToolTip": "ShopContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAzwIIBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T15:45:42.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShopRandom.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Utilits\\ShopRandom.cs",
-              "RelativeDocumentMoniker": "Utilits\\ShopRandom.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Utilits\\ShopRandom.cs",
-              "RelativeToolTip": "Utilits\\ShopRandom.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:44:36.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFileContainer.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\IFileContainer.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IFileContainer.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\IFileContainer.cs",
-              "RelativeToolTip": "Interfaces\\IFileContainer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:24:05.819Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IContainer.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\IContainer.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IContainer.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\IContainer.cs",
-              "RelativeToolTip": "Interfaces\\IContainer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Classes\\Person.cs",
+              "RelativeDocumentMoniker": "Classes\\Person.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Classes\\Person.cs",
+              "RelativeToolTip": "Classes\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:23:23.649Z"
+              "WhenOpened": "2025-03-31T23:38:56.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Shop.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Classes\\Shop.cs",
-              "RelativeDocumentMoniker": "Classes\\Shop.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Classes\\Shop.cs",
-              "RelativeToolTip": "Classes\\Shop.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAuwJkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "Classes\\Product.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Classes\\Product.cs",
+              "RelativeToolTip": "Classes\\Product.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:41:42.994Z"
+              "WhenOpened": "2025-03-31T23:39:50.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Classes\\Person.cs",
-              "RelativeDocumentMoniker": "Classes\\Person.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Classes\\Person.cs",
-              "RelativeToolTip": "Classes\\Person.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAQwH0AAAAAAAAAAAAAAA==",
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Classes\\Shop.cs",
+              "RelativeDocumentMoniker": "Classes\\Shop.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Classes\\Shop.cs",
+              "RelativeToolTip": "Classes\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:38:56.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Classes\\Product.cs",
-              "RelativeDocumentMoniker": "Classes\\Product.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Classes\\Product.cs",
-              "RelativeToolTip": "Classes\\Product.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:39:50.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonRandom.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Utilits\\PersonRandom.cs",
-              "RelativeDocumentMoniker": "Utilits\\PersonRandom.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Utilits\\PersonRandom.cs",
-              "RelativeToolTip": "Utilits\\PersonRandom.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAxwBUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T19:40:46.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductRandom.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Utilits\\ProductRandom.cs",
-              "RelativeDocumentMoniker": "Utilits\\ProductRandom.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Utilits\\ProductRandom.cs",
-              "RelativeToolTip": "Utilits\\ProductRandom.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:54:51.058Z"
+              "WhenOpened": "2025-03-31T23:41:42.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PersonRandom.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Utilits\\PersonRandom.cs",
+              "RelativeDocumentMoniker": "Utilits\\PersonRandom.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Utilits\\PersonRandom.cs",
+              "RelativeToolTip": "Utilits\\PersonRandom.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:40:46.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRandom.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Utilits\\ProductRandom.cs",
+              "RelativeDocumentMoniker": "Utilits\\ProductRandom.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Utilits\\ProductRandom.cs",
+              "RelativeToolTip": "Utilits\\ProductRandom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:54:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopRandom.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Utilits\\ShopRandom.cs",
+              "RelativeDocumentMoniker": "Utilits\\ShopRandom.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Utilits\\ShopRandom.cs",
+              "RelativeToolTip": "Utilits\\ShopRandom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:44:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "DocumentMoniker": "D:\\SMOOP\\Lab7(5)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SMOOP\\Lab7 \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "ToolTip": "D:\\SMOOP\\Lab7(5)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwBgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T23:35:19.049Z",
               "EditorCaption": ""

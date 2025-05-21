@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|d:\\smoop\\lab8task1(2)\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|solutionrelative:areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|d:\\smoop\\lab8task1(2)\\timedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|solutionrelative:timedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|d:\\smoop\\lab8task1(2)\\numberchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|solutionrelative:numberchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|d:\\smoop\\lab8task1(2)\\timedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|solutionrelative:timedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|d:\\smoop\\lab8task1(2)\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B51A62-0D77-4ADA-ABE6-AA27B7A701A5}|Lab8Task1(2).csproj|solutionrelative:areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AreaCalculator.cs",
               "DocumentMoniker": "D:\\SMOOP\\Lab8Task1(2)\\AreaCalculator.cs",
               "RelativeDocumentMoniker": "AreaCalculator.cs",
               "ToolTip": "D:\\SMOOP\\Lab8Task1(2)\\AreaCalculator.cs",
               "RelativeToolTip": "AreaCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T08:12:00.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T08:12:00.131Z"
             },
             {
               "$type": "Document",
@@ -49,23 +52,21 @@
               "RelativeDocumentMoniker": "NumberChecker.cs",
               "ToolTip": "D:\\SMOOP\\Lab8Task1(2)\\NumberChecker.cs",
               "RelativeToolTip": "NumberChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T08:02:15.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T08:02:15.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TimeDisplayer.cs",
               "DocumentMoniker": "D:\\SMOOP\\Lab8Task1(2)\\TimeDisplayer.cs",
               "RelativeDocumentMoniker": "TimeDisplayer.cs",
               "ToolTip": "D:\\SMOOP\\Lab8Task1(2)\\TimeDisplayer.cs",
               "RelativeToolTip": "TimeDisplayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:59:03.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T07:59:03.023Z"
             },
             {
               "$type": "Document",
@@ -75,7 +76,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\SMOOP\\Lab8Task1(2)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T07:58:17.409Z",
               "EditorCaption": ""

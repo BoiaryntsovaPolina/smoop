@@ -1,4 +1,5 @@
 ﻿using Lab7Task2_2_;
+using Lab7Task2_2_.Utilits;
 
 internal class Program
 {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab7Task2_2_.Interface;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -125,62 +126,11 @@ namespace Lab7Task2_2_
             }
         }
 
-        // Метод для сортування пристроїв за вагою (перший критерій) 
-        public void SortByWeight()
+        // Метод для сортування пристроїв за роком виробництва, потім за вагою (перший та другий критерії) 
+        public void SortByYearWeight()
         {
-            if (count <= 1) return; // Нічого сортувати
-
-            bool swapped;
-            for (int i = 0; i < count - 1; i++)
-            {
-                swapped = false;
-                for (int j = 0; j < count - i - 1; j++)
-                {
-                    // Порівнюємо за вагою (за замовчуванням в CompareTo)
-                    if (devices[j].CompareTo(devices[j + 1]) > 0)
-                    {
-                        // Міняємо місцями
-                        Device temp = devices[j];
-                        devices[j] = devices[j + 1];
-                        devices[j + 1] = temp;
-                        swapped = true;
-                    }
-                }
-
-                // Якщо на поточній ітерації не було жодного обміну, то масив відсортований
-                if (!swapped)
-                    break;
-            }
-
-            Console.WriteLine("\nОбладнання відсортовано за вагою.");
-        }
-
-        // Метод для сортування пристроїв за роком виробництва (другий критерій) 
-        public void SortByYear()
-        {
-            if (count <= 1) return; // Нічого сортувати
-
-            bool swapped;
-            for (int i = 0; i < count - 1; i++)
-            {
-                swapped = false;
-                for (int j = 0; j < count - i - 1; j++)
-                {
-                    // Порівнюємо за роком виробництва
-                    if (devices[j].YearOfManufacture > devices[j + 1].YearOfManufacture)
-                    {
-                        // Міняємо місцями
-                        Device temp = devices[j];
-                        devices[j] = devices[j + 1];
-                        devices[j + 1] = temp;
-                        swapped = true;
-                    }
-                }
-                if (!swapped)
-                    break;
-            }
-
-            Console.WriteLine("\nОбладнання відсортовано за роком виробництва.");
+            Array.Sort(devices, 0, count);
+            Console.WriteLine("\nОбладнання відсортовано за роком виробництва, потім за вагою.");
         }
 
         // Метод для клонування пристрою за індексом

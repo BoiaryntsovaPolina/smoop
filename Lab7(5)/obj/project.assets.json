@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SMOOP\\Lab7 — копия — копия — копия\\Lab7.csproj",
+      "projectUniqueName": "D:\\SMOOP\\Lab7(5)\\Lab7.csproj",
       "projectName": "Lab7",
-      "projectPath": "D:\\SMOOP\\Lab7 — копия — копия — копия\\Lab7.csproj",
+      "projectPath": "D:\\SMOOP\\Lab7(5)\\Lab7.csproj",
       "packagesPath": "C:\\Users\\745_ATS\\.nuget\\packages\\",
-      "outputPath": "D:\\SMOOP\\Lab7 — копия — копия — копия\\obj\\",
+      "outputPath": "D:\\SMOOP\\Lab7(5)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

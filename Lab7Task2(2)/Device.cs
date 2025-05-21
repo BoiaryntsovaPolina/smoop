@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab7Task2_2_.Interface;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -43,12 +44,15 @@ namespace Lab7Task2_2_
             Device otherDevice = obj as Device;
             if (otherDevice != null)
             {
-                return this.Weight.CompareTo(otherDevice.Weight);
-            }
-            else
-            {
                 throw new ArgumentException("Об'єкт не є пристроєм");
             }
+           
+            int yearComparison = this.YearOfManufacture.CompareTo(otherDevice.YearOfManufacture);
+            if (yearComparison != 0)
+            {
+                return yearComparison;
+            }
+            return this.Weight.CompareTo(otherDevice.Weight);
         }
     }
 }
