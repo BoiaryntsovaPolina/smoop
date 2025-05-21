@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,20 +9,23 @@ namespace Lab8Task2
     {
         private string color;
         private string manufacturer;
-        private double weight;         // Вага порожньої валізи (в кг)
-        private double maxVolume;      // Максимальний об'єм валізи (в літрах)
+        private double weight;       // Вага порожньої валізи (в кг)
+        private double maxVolume;    // Максимальний об'єм валізи (в літрах)
         private Thing[] things;
         private int thingCount;
         private double currentVolume;  // Поточний зайнятий об'єм валізи (в літрах)
         private double totalWeight;    // Загальна вага валізи з речами (в кг)
 
-        // Подія, що виникає при додаванні предмету до валізи
-        public event ThingAddedListener ThingAdded;
+        // Делегат для події ThingAdded, що напряму передає доданий предмет
+        public delegate void ThingAddedEventListener(Suitcase sender, Thing addedThing);
 
-        // Конструктор класу для створення нової валізи
+        // Подія, що виникає при додаванні предмету до валізи
+        public event ThingAddedEventListener ThingAdded;
+
+        
         public Suitcase(string color, string manufacturer, double weight, double maxVolume, int maxThings = 100)
         {
-            // Перевіряємо коректність параметрів
+            
             if (weight <= 0)
             {
                 throw new ArgumentException("Вага валізи повинна бути більше нуля!");
@@ -46,7 +48,7 @@ namespace Lab8Task2
             this.things = new Thing[maxThings];  // Створюємо масив для зберігання речей
             this.thingCount = 0;
             this.currentVolume = 0;
-            this.totalWeight = weight;           // Початкова загальна вага - це вага порожньої валізи
+            this.totalWeight = weight;          // Початкова загальна вага - це вага порожньої валізи
         }
 
         public string Color
@@ -133,13 +135,13 @@ namespace Lab8Task2
             if (thing == null)
                 throw new ArgumentNullException(nameof(thing), "Предмет не може бути null!");
 
-            // Перевіряємо, чи є ще місце в масиві речей
+            
             if (thingCount >= things.Length)
             {
                 throw new ArgumentException("Валіза не може вмістити більше предметів!");
             }
 
-            // Перевіряємо, чи не перевищить об'єм валізи
+            
             if (currentVolume + thing.Volume > maxVolume)
             {
                 throw new ArgumentException(
@@ -147,16 +149,16 @@ namespace Lab8Task2
                                  maxVolume - currentVolume, thing.Volume));
             }
 
-            // Додаємо предмет до масиву речей
+            
             things[thingCount] = thing;
             thingCount++;
 
-            // Оновлюємо поточний об'єм і загальну вагу
+            
             currentVolume += thing.Volume;
             totalWeight += thing.Weight;
 
             // Викликаємо подію, якщо є підписники
-            ThingAdded?.Invoke(this, new ThingEventArgs(thing));
+            ThingAdded?.Invoke(this, thing);
         }
 
         // Метод для видалення предмету з валізи за індексом
@@ -219,7 +221,8 @@ namespace Lab8Task2
 
                 Console.WriteLine("-------------------------------");
                 Console.WriteLine("Всього предметів: {0}", thingCount);
-                Console.WriteLine("Зайнятий об'єм: {0:F2} л з {1:F2} л", currentVolume, maxVolume);
+                Console.WriteLine("Зайнятий об'єм: {0:F2} л з {1:F2} л",
+                                 currentVolume, maxVolume);
                 Console.WriteLine("Загальна вага: {0:F2} кг", totalWeight);
             }
         }
@@ -234,7 +237,7 @@ namespace Lab8Task2
             Thing[] tempArray = new Thing[thingCount];
             Array.Copy(things, tempArray, thingCount);
 
-            // Використовуємо стандартний метод сортування
+            // стандартний метод сортування
             Array.Sort(tempArray, 0, thingCount);
 
             // Копіюємо відсортований масив назад
@@ -332,7 +335,7 @@ namespace Lab8Task2
         public override string ToString()
         {
             return string.Format("Валіза '{0}' від {1}, вага: {2:F2} кг, об'єм: {3:F2} л",
-                                color, manufacturer, weight, maxVolume);
+                                 color, manufacturer, weight, maxVolume);
         }
     }
 }

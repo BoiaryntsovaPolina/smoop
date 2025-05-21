@@ -8,7 +8,6 @@ namespace Lab8Task2
 {
     internal class SuitcaseManager
     {
-        // Залишаємо тільки основний інтерактивний метод
         public void InteractiveSuitcasePacking()
         {
             Console.WriteLine("=== Інтерактивне пакування валізи ===");
@@ -28,7 +27,7 @@ namespace Lab8Task2
             Suitcase suitcase = new Suitcase(color, manufacturer, weight, maxVolume);
 
             // Реєструємо обробник подій
-            RegisterEventHandler(suitcase);
+            RegisterEventListener(suitcase);
 
             Console.WriteLine($"\nСтворено валізу: {suitcase}");
 
@@ -117,7 +116,8 @@ namespace Lab8Task2
 
             PrintSuitcaseInfo(suitcase);
 
-            int index = ReadIntInRange("Введіть номер предмета для видалення (від 1)", 1, suitcase.ThingCount) - 1;
+            int index = ReadIntInRange("Введіть номер предмета для видалення (від 1)", 1,
+                                       suitcase.ThingCount) - 1;
 
             try
             {
@@ -133,10 +133,10 @@ namespace Lab8Task2
         // Допоміжні методи
 
         // Реєстрація обробника подій для валізи
-        private void RegisterEventHandler(Suitcase suitcase)
+        private void RegisterEventListener(Suitcase suitcase)
         {
-            SuitcaseHandler handler = new SuitcaseHandler();
-            suitcase.ThingAdded += handler.OnThingAdded;
+            SuitcaseListener listener = new SuitcaseListener();
+            suitcase.ThingAdded += listener.OnThingAdded;
         }
 
         // Метод для читання додатного дійсного числа з консолі
@@ -331,7 +331,7 @@ namespace Lab8Task2
                     {
                         suitcase.AddThing(randomThing);
                         Console.WriteLine($"+ Додано: {randomThing.Name}" +
-                            (randomThing.IsEssential ? " (обов'язковий)" : ""));
+                                          (randomThing.IsEssential ? " (обов'язковий)" : ""));
                         addedCount++;
                     }
                     else
@@ -352,16 +352,8 @@ namespace Lab8Task2
                 {
                     Console.WriteLine($"! Помилка: {ex.Message}");
                 }
-
-                // Перевіряємо, чи валіза повна
-                if (suitcase.IsFull)
-                {
-                    Console.WriteLine("\nВаліза заповнена повністю! Завершуємо додавання предметів.");
-                    break;
-                }
             }
-
-            Console.WriteLine($"\nУспішно додано {addedCount} з {count} предметів");
+            Console.WriteLine($"\nУспішно додано {addedCount} з {count} предметів.");
         }
     }
 }

@@ -1,28 +1,11 @@
-﻿using Lab8Task2;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace Lab8Task2
 {
-    // Делегат для події додавання предмету до валізи
-    public delegate void ThingAddedListener(object sender, ThingEventArgs e);
-
-    // Клас для передачі даних про предмет в події
-    public class ThingEventArgs : EventArgs
-    {
-        public Thing Thing { get; private set; }
-
-        public ThingEventArgs(Thing thing)
-        {
-            Thing = thing;
-        }
-    }
-
-    // Реалізація IComparable для класу Thing
     public class Thing : IComparable<Thing>
     {
         private string name;
@@ -106,7 +89,7 @@ namespace Lab8Task2
             }
         }
 
-        // Реалізація IComparable для сортування за важливістю
+        // сортування за важливістю
         public int CompareTo(Thing other)
         {
             if (other == null) return 1;
@@ -119,7 +102,7 @@ namespace Lab8Task2
         {
             string essentialStatus = isEssential ? " (обов'язковий)" : "";
             return string.Format("{0}{1} (об'єм: {2:F2} л, вага: {3:F2} кг, важливість: {4}/10)",
-                name, essentialStatus, volume, weight, importance);
+                                 name, essentialStatus, volume, weight, importance);
         }
     }
 }

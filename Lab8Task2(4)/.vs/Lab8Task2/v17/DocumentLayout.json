@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SMOOP\\Lab8Task2(4)\\",
+  "WorkspaceRootPath": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|d:\\smoop\\lab8task2(4)\\suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|e:\\\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab8task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\suitcasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|d:\\smoop\\lab8task2(4)\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|d:\\smoop\\lab8task2(4)\\suitcaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|d:\\smoop\\lab8task2(4)\\suitcasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|e:\\\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab8task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\suitcasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|d:\\smoop\\lab8task2(4)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|e:\\\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab8task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\suitcaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|d:\\smoop\\lab8task2(4)\\suitcasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|e:\\\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab8task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|e:\\\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab8task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:suitcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|e:\\\u043F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\lab8task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08FE0024-C97F-42DF-83AB-668AA23B50BB}|Lab8Task2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Suitcase.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab8Task2(4)\\Suitcase.cs",
+              "DocumentMoniker": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\Suitcase.cs",
               "RelativeDocumentMoniker": "Suitcase.cs",
-              "ToolTip": "D:\\SMOOP\\Lab8Task2(4)\\Suitcase.cs",
+              "ToolTip": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\Suitcase.cs",
               "RelativeToolTip": "Suitcase.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAzwO8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:15:55.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Thing.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab8Task2(4)\\Thing.cs",
+              "DocumentMoniker": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\Thing.cs",
               "RelativeDocumentMoniker": "Thing.cs",
-              "ToolTip": "D:\\SMOOP\\Lab8Task2(4)\\Thing.cs",
+              "ToolTip": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\Thing.cs",
               "RelativeToolTip": "Thing.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:10:59.054Z",
               "EditorCaption": ""
@@ -70,53 +70,52 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SuitcaseUtility.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab8Task2(4)\\SuitcaseUtility.cs",
+              "DocumentMoniker": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\SuitcaseUtility.cs",
               "RelativeDocumentMoniker": "SuitcaseUtility.cs",
-              "ToolTip": "D:\\SMOOP\\Lab8Task2(4)\\SuitcaseUtility.cs",
+              "ToolTip": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\SuitcaseUtility.cs",
               "RelativeToolTip": "SuitcaseUtility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:43:14.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SuitcaseHandler.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab8Task2(4)\\SuitcaseHandler.cs",
+              "DocumentMoniker": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\SuitcaseHandler.cs",
               "RelativeDocumentMoniker": "SuitcaseHandler.cs",
-              "ToolTip": "D:\\SMOOP\\Lab8Task2(4)\\SuitcaseHandler.cs",
+              "ToolTip": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\SuitcaseHandler.cs",
               "RelativeToolTip": "SuitcaseHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T14:41:04.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SuitcaseManager.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab8Task2(4)\\SuitcaseManager.cs",
+              "DocumentMoniker": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\SuitcaseManager.cs",
               "RelativeDocumentMoniker": "SuitcaseManager.cs",
-              "ToolTip": "D:\\SMOOP\\Lab8Task2(4)\\SuitcaseManager.cs",
+              "ToolTip": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\SuitcaseManager.cs",
               "RelativeToolTip": "SuitcaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQBAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACYBAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T16:48:50.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SMOOP\\Lab8Task2(4)\\Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SMOOP\\Lab8Task2(4)\\Program.cs",
+              "ToolTip": "E:\\\u041F\u0435\u0440\u0435\u0440\u043E\u0431\u043B\u0435\u043D\u0456\\Lab8Task2(4) \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:34:25.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:34:25.854Z"
             }
           ]
         }
