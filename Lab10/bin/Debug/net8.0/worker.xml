@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Worker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FullName>Іванов Іван Іванович</FullName>
+  <Position>Програміст</Position>
+  <Salary>26000.00</Salary>
+  <HireDate>2015-03-15T00:00:00</HireDate>
+</Worker>

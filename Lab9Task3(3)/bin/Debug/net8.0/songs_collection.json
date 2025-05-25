@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Monsters",
+    "Author": "Timeflies",
+    "Composer": "Katie Sky",
+    "Year": 2014,
+    "LyricsFileName": "Monsters.txt",
+    "Performers": [
+      "Timeflies"
+    ]
+  },
+  {
+    "Title": "Arcade",
+    "Author": "Duncan Laurence",
+    "Composer": "Wouter Hardy",
+    "Year": 2020,
+    "LyricsFileName": "Arcade.txt",
+    "Performers": [
+      "Duncan Laurence"
+    ]
+  },
+  {
+    "Title": "Human",
+    "Author": "Rory Graham",
+    "Composer": "Jamie Hartman",
+    "Year": 2017,
+    "LyricsFileName": "Human.txt",
+    "Performers": [
+      "Rag\u0027n\u0027Bone Man"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+D:\SMOOP\Lab9Task1\bin\Debug\net8.0\Lab9Task1.exe
+D:\SMOOP\Lab9Task1\bin\Debug\net8.0\Lab9Task1.deps.json
+D:\SMOOP\Lab9Task1\bin\Debug\net8.0\Lab9Task1.runtimeconfig.json
+D:\SMOOP\Lab9Task1\bin\Debug\net8.0\Lab9Task1.dll
+D:\SMOOP\Lab9Task1\bin\Debug\net8.0\Lab9Task1.pdb
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.AssemblyInfoInputs.cache
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.AssemblyInfo.cs
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.sourcelink.json
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.dll
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\refint\Lab9Task1.dll
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.pdb
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\Lab9Task1.genruntimeconfig.cache
+D:\SMOOP\Lab9Task1\obj\Debug\net8.0\ref\Lab9Task1.dll
+D:\SMOOP\Lab9Task1 — копия\bin\Debug\net8.0\Lab9Task1.exe
+D:\SMOOP\Lab9Task1 — копия\bin\Debug\net8.0\Lab9Task1.deps.json
+D:\SMOOP\Lab9Task1 — копия\bin\Debug\net8.0\Lab9Task1.runtimeconfig.json
+D:\SMOOP\Lab9Task1 — копия\bin\Debug\net8.0\Lab9Task1.dll
+D:\SMOOP\Lab9Task1 — копия\bin\Debug\net8.0\Lab9Task1.pdb
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.AssemblyInfoInputs.cache
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.AssemblyInfo.cs
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.sourcelink.json
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.dll
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\refint\Lab9Task1.dll
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.pdb
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\Lab9Task1.genruntimeconfig.cache
+D:\SMOOP\Lab9Task1 — копия\obj\Debug\net8.0\ref\Lab9Task1.dll

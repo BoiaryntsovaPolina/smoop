@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <FullName>Іванов Іван Іванович</FullName>
+    <Position>Програміст</Position>
+    <Salary>26000.00</Salary>
+    <HireDate>2015-03-15T00:00:00</HireDate>
+  </Worker>
+  <Worker>
+    <FullName>Петренко Петро Петрович</FullName>
+    <Position>Менеджер</Position>
+    <Salary>31200.00</Salary>
+    <HireDate>2018-07-20T00:00:00</HireDate>
+  </Worker>
+  <Worker>
+    <FullName>Сидоренко Сидір Сидорович</FullName>
+    <Position>Аналітик</Position>
+    <Salary>29120.00</Salary>
+    <HireDate>2016-11-10T00:00:00</HireDate>
+  </Worker>
+  <Worker>
+    <FullName>Коваленко Анна Василівна</FullName>
+    <Position>Дизайнер</Position>
+    <Salary>22000</Salary>
+    <HireDate>2020-01-25T00:00:00</HireDate>
+  </Worker>
+  <Worker>
+    <FullName>Шевченко Олег Миколайович</FullName>
+    <Position>Тестувальник</Position>
+    <Salary>24960.00</Salary>
+    <HireDate>2017-05-08T00:00:00</HireDate>
+  </Worker>
+</ArrayOfWorker>
