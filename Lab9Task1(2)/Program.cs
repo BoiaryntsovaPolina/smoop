@@ -35,7 +35,7 @@ internal class Program
     {
         try
         {
-            using (FileStream fs = new FileStream(path, FileMode.Create, FileAccess.Write, FileShare.None, bufferSize: 4096, useAsync: true))
+            using (FileStream fs = new FileStream(path, FileMode.Create))
             {
                 await JsonSerializer.SerializeAsync(fs, stats);
             }
@@ -54,7 +54,7 @@ internal class Program
         {
             if (File.Exists(path))
             {
-                using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.Read, bufferSize: 4096, useAsync: true))
+                using (FileStream fs = new FileStream(path, FileMode.Open))
                 {
                     Stats stats = await JsonSerializer.DeserializeAsync<Stats>(fs);
                     Console.WriteLine($"\nЗавантажено (асинхронно): {path}");
