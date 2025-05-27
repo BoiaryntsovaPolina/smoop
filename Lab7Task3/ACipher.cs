@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab7Task3
 {
-    internal class ACipher : ICipher
+    internal class ACipher : ICipher   
     {
         public string decode(string text)
         {

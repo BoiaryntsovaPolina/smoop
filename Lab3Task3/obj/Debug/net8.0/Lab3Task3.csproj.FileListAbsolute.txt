@@ -1,0 +1,15 @@
+D:\SMOOP\Lab3Task3\bin\Debug\net8.0\Lab3Task3.exe
+D:\SMOOP\Lab3Task3\bin\Debug\net8.0\Lab3Task3.deps.json
+D:\SMOOP\Lab3Task3\bin\Debug\net8.0\Lab3Task3.runtimeconfig.json
+D:\SMOOP\Lab3Task3\bin\Debug\net8.0\Lab3Task3.dll
+D:\SMOOP\Lab3Task3\bin\Debug\net8.0\Lab3Task3.pdb
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.AssemblyInfoInputs.cache
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.AssemblyInfo.cs
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.csproj.CoreCompileInputs.cache
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.sourcelink.json
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.dll
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\refint\Lab3Task3.dll
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.pdb
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\Lab3Task3.genruntimeconfig.cache
+D:\SMOOP\Lab3Task3\obj\Debug\net8.0\ref\Lab3Task3.dll
