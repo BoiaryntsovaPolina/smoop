@@ -16,7 +16,7 @@ namespace Lab9Task2
                 throw new FileNotFoundException($"Файл не знайдено: {filePath}");
             }
 
-            using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read))
+            using (FileStream fs = new FileStream(filePath, FileMode.Open))
             {
                 byte[] buffer = new byte[fs.Length];
                 fs.Read(buffer, 0, buffer.Length);
@@ -41,7 +41,7 @@ namespace Lab9Task2
         {
             try
             {
-                await using (FileStream fs = new FileStream(fileName, FileMode.Create, FileAccess.Write, FileShare.None, 4096, useAsync: true))
+                await using (FileStream fs = new FileStream(fileName, FileMode.Create))
                 {
 
                     await JsonSerializer.SerializeAsync(fs, result);
