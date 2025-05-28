@@ -45,7 +45,7 @@ namespace ConsoleApp2.Sklad
         }
 
         // Відбирає певну кількість намистин за заданими критеріями.
-        public IBiser[] VidibratyBiser(int kilkist, BiserColor requiredColor, int minQuality, double minSize) 
+        private IBiser[] PerformBiserSelection(int kilkist, BiserColor requiredColor, int minQuality, double minSize) 
         {
             if (kilkist <= 0) return new IBiser[0];
 
@@ -74,7 +74,7 @@ namespace ConsoleApp2.Sklad
 
             if (selectedCount < kilkist)
             {
-                Console.WriteLine($"Недостатньо бісеру для відбору за критеріями: {requiredColor}, Q>={minQuality}, S>={minSize}мм. Потрібно: {kilkist}, Знайдено: {selectedCount}");
+                // Виклик SprobuvatiStvorityVirob вирішить, що робити далі.
                 return new IBiser[0]; // Повертаємо порожній масив, якщо недостатньо
             }
 
@@ -86,12 +86,7 @@ namespace ConsoleApp2.Sklad
 
             CompactBiserStorage(); // Ущільнюємо масив після видалення
 
-            Console.WriteLine($"Відібрано {selectedCount} бісеру: Колір: {requiredColor}, Якість>={minQuality}, Розмір>={minSize}мм");
-
-            // Якщо було відібрано рівно 'kilkist' намистин, повертаємо tempSelectedBiserArray
-            IBiser[] finalSelected = new IBiser[selectedCount];
-            Array.Copy(tempSelectedBiserArray, finalSelected, selectedCount);
-            return finalSelected;
+            return tempSelectedBiserArray; // Повертаємо відібраний бісер
         }
 
         // Ущільнює масив `biserStorage`, переміщуючи всі не-null елементи на початок.
@@ -136,7 +131,7 @@ namespace ConsoleApp2.Sklad
         // Купує пакетик бісеру і додає його вміст на склад.
         public void BuyBiserPackage(BiserColor color, int quality, double bagPrice, int beadsInBag)
         {
-            Console.WriteLine($"\nКупуємо пакет бісеру: {color}, Якість:{quality}/10, {beadsInBag} шт. за {bagPrice:C}");
+            Console.WriteLine($"\nКупуємо пакет бісеру: {color}, Якість:{quality}/10, {beadsInBag} шт. за {bagPrice:F2}грн.");
             TotalSpentCost += bagPrice; // Додаємо до загальних витрат
 
             for (int i = 0; i < beadsInBag; i++)
@@ -144,64 +139,100 @@ namespace ConsoleApp2.Sklad
                 // Створюємо бісер без індивідуальної ціни. Розмір може бути випадковим, імітуючи варіативність в пакеті.
                 AddBiser(new Biser(color, (double)_random.Next(20, 41) / 10, quality)); // Розмір від 2.0 до 4.0
             }
-            Console.WriteLine($"Додано {beadsInBag} намистин на склад. Загальні витрати: {TotalSpentCost:C}");
+            Console.WriteLine($"Додано {beadsInBag} намистин на склад. Загальні витрати: {TotalSpentCost:F2}грн.");
         }
 
         // Спроба створити виріб, відбираючи необхідний бісер зі складу.
         // Вартість бісеру, що вже є, не додається до вартості виробу.
-        public IBiser[] SprobuvatiStvorityVirob(Virob virob)
+        public BiserRequirement[] SprobuvatiStvorityVirob(Virob virob, out IBiser[] usedBiser)
         {
             Console.WriteLine($"\nСпроба створити виріб: '{virob.Name}'...");
             BiserRequirement[] requirements = virob.GetRequirements();
 
-            // Загальний масив для збору ВСЬОГО бісеру, який потрібен для виробу
+            // Масив для збору ВСЬОГО бісеру, який був би відібраний для виробу.
+            // Якщо щось піде не так, ми повернемо цей бісер на склад.
             int maxTotalRequired = 0;
             for (int i = 0; i < requirements.Length; i++)
             {
                 maxTotalRequired += requirements[i].Quantity;
             }
             IBiser[] allCollectedBiser = new IBiser[maxTotalRequired];
-            int currentCollectedIndex = 0;
+            int currentCollectedIndex = 0; // Фактична кількість зібраного бісеру
 
+            // Масив для збереження вимог до бісеру, якого не вистачило
+            BiserRequirement[] missingRequirements = new BiserRequirement[requirements.Length];
+            int missingCount = 0;
+
+            // Спершу перевіряємо, скільки бісеру є для кожної вимоги
             for (int i = 0; i < requirements.Length; i++)
             {
                 BiserRequirement req = requirements[i];
-                IBiser[] selected = VidibratyBiser(req.Quantity, req.Color, req.MinQuality, req.MinSize);
-
-                if (selected.Length < req.Quantity)
+                int foundCount = 0;
+                for (int j = 0; j < currentBiserCount; j++)
                 {
-                    Console.WriteLine("Не вистачає бісеру для '{virob.Name}'. Відміна операції.");
-                    // Повертаємо бісер, який встигли відібрати
-                    for (int k = 0; k < currentCollectedIndex; k++)
+                    if (biserStorage[j] != null &&
+                        biserStorage[j].Color == req.Color &&
+                        biserStorage[j].Quality >= req.MinQuality &&
+                        biserStorage[j].Size >= req.MinSize)
                     {
-                        AddBiser(allCollectedBiser[k]); // Повертаємо назад
+                        foundCount++;
                     }
-                    return null;
                 }
+                req.AvailableQuantity = foundCount; // Оновлюємо доступну кількість
+            }
 
-                // Додаємо відібраний бісер до загального масиву
+
+            // Тепер перевіряємо, чого не вистачає
+            bool canCreate = true;
+            for (int i = 0; i < requirements.Length; i++)
+            {
+                BiserRequirement req = requirements[i];
+                if (req.AvailableQuantity < req.Quantity)
+                {
+                    canCreate = false;
+                    // Додаємо копію вимоги до списку відсутніх
+                    missingRequirements[missingCount++] = new BiserRequirement(req);
+                    Console.WriteLine($"Не вистачає: Колір {req.Color}, Розмір >={req.MinSize:F1}мм, Якість >={req.MinQuality}, Потрібно: {req.Quantity}, В наявності: {req.AvailableQuantity}.");
+                }
+            }
+
+            if (!canCreate)
+            {
+                Console.WriteLine($"Неможливо створити '{virob.Name}' зараз. Потрібна докупівля.");
+                usedBiser = null;
+                // Повертаємо тільки ті вимоги, де була нестача
+                BiserRequirement[] finalMissing = new BiserRequirement[missingCount];
+                Array.Copy(missingRequirements, finalMissing, missingCount);
+                return finalMissing;
+            }
+
+            // Якщо ми дійшли сюди, значить бісеру вистачає.
+            // Тепер реально відбираємо бісер.
+            for (int i = 0; i < requirements.Length; i++)
+            {
+                BiserRequirement req = requirements[i];
+                IBiser[] selected = PerformBiserSelection(req.Quantity, req.Color, req.MinQuality, req.MinSize);
                 for (int k = 0; k < selected.Length; k++)
                 {
                     allCollectedBiser[currentCollectedIndex++] = selected[k];
                 }
             }
 
-            // Якщо все успішно, повідомляємо виробу про його створення
             virob.OnCreated();
+            Console.WriteLine($"\nВиріб '{virob.Name}' успішно завершено!");
 
-            // Створюємо фінальний масив тільки з використаним бісером
-            IBiser[] finalUsedBiser = new IBiser[currentCollectedIndex];
-            Array.Copy(allCollectedBiser, finalUsedBiser, currentCollectedIndex);
-
-            return finalUsedBiser;
+            usedBiser = new IBiser[currentCollectedIndex];
+            Array.Copy(allCollectedBiser, usedBiser, currentCollectedIndex);
+            return new BiserRequirement[0];
         }
+
 
         // Виводить детальний стан складу, включаючи кількість бісеру за кольорами та якістю.
         public void VyvestyDetalnyyStanSkladu()
         {
             Console.WriteLine("\nСТАН СКЛАДУ БІСЕРУ:");
             Console.WriteLine($"    Загальна кількість намистин: {currentBiserCount}");
-            Console.WriteLine($"    Загальні витрати на докупівлю бісеру: {TotalSpentCost:C}"); // Виводимо загальні витрати
+            Console.WriteLine($"    Загальні витрати на докупівлю бісеру: {TotalSpentCost:F2}грн."); // Виводимо загальні витрати
 
             // Масиви для підрахунку кількості бісеру за кольорами та якістю
             int[] colorCounts = new int[Enum.GetValues(typeof(BiserColor)).Length];

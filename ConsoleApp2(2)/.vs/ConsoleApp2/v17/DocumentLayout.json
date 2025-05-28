@@ -1,62 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "WorkspaceRootPath": "D:\\SMOOP\\ConsoleApp2(2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\sklad\\professionalbisersklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:sklad\\professionalbisersklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\workshop\\biserworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\workshop\\biserworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:workshop\\biserworkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\utils\\bisergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:utils\\bisergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\baseclasses\\virob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:baseclasses\\virob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\concreteproducts\\kvitka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:concreteproducts\\kvitka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\concreteproducts\\braslet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:concreteproducts\\braslet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\concretebiser\\biser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:concretebiser\\biser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\baseclasses\\biserrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:baseclasses\\biserrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\baseclasses\\basebiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:baseclasses\\basebiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\interfaces\\isklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\interfaces\\isklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:interfaces\\isklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\interfaces\\ibiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:interfaces\\ibiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\baseclasses\\biserrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:baseclasses\\biserrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\enums\\virobcomplexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\enums\\bisercolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:enums\\bisercolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\sklad\\professionalbisersklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:sklad\\professionalbisersklad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\utils\\bisergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:utils\\bisergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\enums\\virobcomplexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:enums\\virobcomplexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\enums\\bisercolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:enums\\bisercolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\concreteproducts\\kvitka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:concreteproducts\\kvitka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\concreteproducts\\braslet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:concreteproducts\\braslet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\baseclasses\\basebiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:baseclasses\\basebiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\baseclasses\\virob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:baseclasses\\virob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|d:\\smoop\\consoleapp2(2)\\interfaces\\ibiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82384B77-D624-446F-9215-BC73512EFE67}|ConsoleApp2.csproj|solutionrelative:interfaces\\ibiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,154 +70,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BiserWorkshop.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Workshop\\BiserWorkshop.cs",
-              "RelativeDocumentMoniker": "Workshop\\BiserWorkshop.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Workshop\\BiserWorkshop.cs",
-              "RelativeToolTip": "Workshop\\BiserWorkshop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T04:12:33.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BiserGenerator.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Utils\\BiserGenerator.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Utils\\BiserGenerator.cs",
               "RelativeDocumentMoniker": "Utils\\BiserGenerator.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Utils\\BiserGenerator.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Utils\\BiserGenerator.cs",
               "RelativeToolTip": "Utils\\BiserGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T04:10:27.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProfessionalBiserSklad.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Sklad\\ProfessionalBiserSklad.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Sklad\\ProfessionalBiserSklad.cs",
               "RelativeDocumentMoniker": "Sklad\\ProfessionalBiserSklad.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Sklad\\ProfessionalBiserSklad.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Sklad\\ProfessionalBiserSklad.cs",
               "RelativeToolTip": "Sklad\\ProfessionalBiserSklad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:52:32.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Kvitka.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConcreteProducts\\Kvitka.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\ConcreteProducts\\Kvitka.cs",
               "RelativeDocumentMoniker": "ConcreteProducts\\Kvitka.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConcreteProducts\\Kvitka.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\ConcreteProducts\\Kvitka.cs",
               "RelativeToolTip": "ConcreteProducts\\Kvitka.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:50:29.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Braslet.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConcreteProducts\\Braslet.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\ConcreteProducts\\Braslet.cs",
               "RelativeDocumentMoniker": "ConcreteProducts\\Braslet.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConcreteProducts\\Braslet.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\ConcreteProducts\\Braslet.cs",
               "RelativeToolTip": "ConcreteProducts\\Braslet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:38:04.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Biser.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConcreteBiser\\Biser.cs",
-              "RelativeDocumentMoniker": "ConcreteBiser\\Biser.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\ConcreteBiser\\Biser.cs",
-              "RelativeToolTip": "ConcreteBiser\\Biser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T03:36:56.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Virob.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\BaseClasses\\Virob.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\BaseClasses\\Virob.cs",
               "RelativeDocumentMoniker": "BaseClasses\\Virob.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\BaseClasses\\Virob.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\BaseClasses\\Virob.cs",
               "RelativeToolTip": "BaseClasses\\Virob.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAhwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:34:49.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "BiserRequirement.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\BaseClasses\\BiserRequirement.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\BaseClasses\\BiserRequirement.cs",
               "RelativeDocumentMoniker": "BaseClasses\\BiserRequirement.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\BaseClasses\\BiserRequirement.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\BaseClasses\\BiserRequirement.cs",
               "RelativeToolTip": "BaseClasses\\BiserRequirement.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:33:51.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BaseBiser.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\BaseClasses\\BaseBiser.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\BaseClasses\\BaseBiser.cs",
               "RelativeDocumentMoniker": "BaseClasses\\BaseBiser.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\BaseClasses\\BaseBiser.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\BaseClasses\\BaseBiser.cs",
               "RelativeToolTip": "BaseClasses\\BaseBiser.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:31:39.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ISklad.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\ISklad.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ISklad.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\ISklad.cs",
-              "RelativeToolTip": "Interfaces\\ISklad.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T03:29:15.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IBiser.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\IBiser.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IBiser.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Interfaces\\IBiser.cs",
-              "RelativeToolTip": "Interfaces\\IBiser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T03:27:43.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "VirobComplexity.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Enums\\VirobComplexity.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Enums\\VirobComplexity.cs",
               "RelativeDocumentMoniker": "Enums\\VirobComplexity.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Enums\\VirobComplexity.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Enums\\VirobComplexity.cs",
               "RelativeToolTip": "Enums\\VirobComplexity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,11 +174,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "BiserWorkshop.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Workshop\\BiserWorkshop.cs",
+              "RelativeDocumentMoniker": "Workshop\\BiserWorkshop.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Workshop\\BiserWorkshop.cs",
+              "RelativeToolTip": "Workshop\\BiserWorkshop.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwG0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T04:12:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISklad.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Interfaces\\ISklad.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISklad.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Interfaces\\ISklad.cs",
+              "RelativeToolTip": "Interfaces\\ISklad.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:29:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBiser.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Interfaces\\IBiser.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBiser.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Interfaces\\IBiser.cs",
+              "RelativeToolTip": "Interfaces\\IBiser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:27:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BiserColor.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Enums\\BiserColor.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Enums\\BiserColor.cs",
               "RelativeDocumentMoniker": "Enums\\BiserColor.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Enums\\BiserColor.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Enums\\BiserColor.cs",
               "RelativeToolTip": "Enums\\BiserColor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,13 +226,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "DocumentMoniker": "D:\\SMOOP\\ConsoleApp2(2)\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SMOOP\\ConsoleApp2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "ToolTip": "D:\\SMOOP\\ConsoleApp2(2)\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAApwEgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T03:24:12.248Z",
               "EditorCaption": ""

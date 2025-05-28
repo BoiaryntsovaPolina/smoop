@@ -46,60 +46,59 @@ namespace ConsoleApp2.Workshop
                 worksInProgress = newWorksInProgress;
             }
             worksInProgress[worksInProgressCount++] = virob;
-            Console.WriteLine($"\n✍️ Розпочато роботу над виробом: '{virob.Name}'.");
+            Console.WriteLine($"\nРозпочато роботу над виробом: '{virob.Name}'.");
         }
 
-        // Завершує роботу над виробом, намагаючись відібрати бісер зі складу.
-        public bool CompleteWork(string virobName)
+        // Завершує роботу над виробом. Повертає масив вимог до бісеру, якого не вистачило.
+        public BiserRequirement[] CompleteWorkWithMissing(Virob virob)
         {
-            Virob virobToComplete = null;
             int foundIndex = -1;
 
-            // Знаходимо виріб у списку робіт в процесі
+            // Знаходимо виріб у списку робіт в процесі за об'єктом Virob
             for (int i = 0; i < worksInProgressCount; i++)
             {
-                if (worksInProgress[i] != null && worksInProgress[i].Name == virobName)
+                if (worksInProgress[i] == virob) 
                 {
-                    virobToComplete = worksInProgress[i];
                     foundIndex = i;
                     break;
                 }
             }
 
-            if (virobToComplete == null)
+            if (foundIndex == -1) // Якщо виріб не знайдено в процесі (можливо, вже завершено або не розпочато)
             {
-                Console.WriteLine($"\n    Виріб '{virobName}' не знайдено в списку робіт в процесі.");
-                return false;
+                Console.WriteLine($"\nВиріб '{virob.Name}' не знайдено в списку робіт в процесі. Можливо, вже завершено.");
+                return new BiserRequirement[0]; 
             }
 
-            IBiser[] usedBiser = Sklad.SprobuvatiStvorityVirob(virobToComplete);
+            IBiser[] usedBiser; 
 
-            if (usedBiser != null)
+            // Спроба відібрати бісер зі складу та створити виріб
+            BiserRequirement[] missingReqs = Sklad.SprobuvatiStvorityVirob(virob, out usedBiser);
+
+            if (missingReqs.Length == 0) 
             {
-                // Виріб успішно завершено
+                // Додаємо виріб до списку завершених робіт
                 if (completedWorksCount >= completedWorks.Length)
                 {
                     Virob[] newCompletedWorks = new Virob[completedWorks.Length * 2];
                     Array.Copy(completedWorks, newCompletedWorks, completedWorks.Length);
                     completedWorks = newCompletedWorks;
                 }
-                completedWorks[completedWorksCount++] = virobToComplete;
+                completedWorks[completedWorksCount++] = virob;
 
-                // Видаляємо виріб зі списку робіт в процесі (зсуваємо елементи)
+                // Видаляємо виріб зі списку робіт в процесі
                 for (int i = foundIndex; i < worksInProgressCount - 1; i++)
                 {
                     worksInProgress[i] = worksInProgress[i + 1];
                 }
-                worksInProgress[worksInProgressCount - 1] = null; // Обнуляємо останній елемент
+                worksInProgress[worksInProgressCount - 1] = null;
                 worksInProgressCount--;
 
-                Console.WriteLine($"\n    Виріб '{virobName}' успішно завершено!");
-                return true;
+                return new BiserRequirement[0]; 
             }
             else
             {
-                Console.WriteLine($"\n    Виріб '{virobName}' через відсутність бісеру.");
-                return false;
+                return missingReqs; 
             }
         }
 
@@ -108,7 +107,7 @@ namespace ConsoleApp2.Workshop
         {
             Console.WriteLine($"\n========== СТАН МАЙСТЕРНІ '{Name.ToUpper()}' ==========");
 
-            Console.WriteLine("\n➡️ Роботи в процесі:");
+            Console.WriteLine("\nРоботи в процесі:");
             if (worksInProgressCount == 0)
             {
                 Console.WriteLine("    Немає незавершених робіт.");

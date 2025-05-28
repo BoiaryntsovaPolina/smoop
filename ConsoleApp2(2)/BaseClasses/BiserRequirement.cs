@@ -15,12 +15,25 @@ namespace ConsoleApp2.BaseClasses
         public int MinQuality { get; private set; }
         public int Quantity { get; private set; }
 
+        //доступна кількість на складі, що задовольняє цю вимогу
+        public int AvailableQuantity { get; set; }
+
         public BiserRequirement(BiserColor color, double minSize, int minQuality, int quantity)
         {
             Color = color;
             MinSize = minSize;
             MinQuality = minQuality;
             Quantity = quantity;
+            AvailableQuantity = 0;
+        }
+
+        public BiserRequirement(BiserRequirement other)
+        {
+            Color = other.Color;
+            MinSize = other.MinSize;
+            MinQuality = other.MinQuality;
+            Quantity = other.Quantity;
+            AvailableQuantity = other.AvailableQuantity;
         }
     }
 }

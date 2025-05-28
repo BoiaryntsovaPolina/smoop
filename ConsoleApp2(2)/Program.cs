@@ -35,70 +35,109 @@ internal class Program
         workshop.StartWork(bracelet1);
         workshop.StartWork(flower2);
 
-        // Спроба завершити роботи
-        Console.WriteLine("\n--- Спроба завершити 'Сонячну квітку' ---");
-        if (!workshop.CompleteWork("Сонячна квітка"))
-        {
-            Console.WriteLine("Не вистачило бісеру для 'Сонячної квітки'. Докуповуємо!");
-            // Отримуємо вимоги до квітки, щоб знати, який розмір докуповувати
-            BiserRequirement[] flowerReqs = flower1.GetRequirements();
-
-            // Докуповуємо необхідний бісер, імітуючи купівлю пакетів з конкретними розмірами
-            // Для зеленого потрібен розмір 2.0
-            BiserGenerator.BuySimulatedBiserPackage(workshop.Sklad, BiserColor.Zeleniy, false, flowerReqs[0].MinSize, flowerReqs[0].MinSize + 0.5);
-            // Для рожевого потрібен розмір 3.0
-            BiserGenerator.BuySimulatedBiserPackage(workshop.Sklad, BiserColor.Rozoviy, true, flowerReqs[1].MinSize, flowerReqs[1].MinSize + 0.5);
-            // Для жовтого потрібен розмір 2.5
-            BiserGenerator.BuySimulatedBiserPackage(workshop.Sklad, BiserColor.Zhovtiy, true, flowerReqs[2].MinSize, flowerReqs[2].MinSize + 0.5);
-
-            // Спроба завершити ще раз після докупівлі
-            Console.WriteLine("\n--- Повторна спроба завершити 'Сонячну квітку' після докупівлі ---");
-            workshop.CompleteWork("Сонячна квітка");
-        }
-
-        Console.WriteLine("\n--- Спроба завершити 'Браслет 'Океан'' ---");
-        if (!workshop.CompleteWork("Браслет 'Океан'"))
-        {
-            Console.WriteLine("Не вистачило бісеру для 'Браслету 'Океан''. Докуповуємо!");
-            // Отримуємо вимоги до браслета, щоб знати, який розмір докуповувати
-            BiserRequirement[] braceletReqs = bracelet1.GetRequirements();
-            // Для синього браслета потрібен розмір 2.0
-            BiserGenerator.BuySimulatedBiserPackage(workshop.Sklad, BiserColor.Siniy, false, braceletReqs[0].MinSize, braceletReqs[0].MinSize + 0.5);
-
-            // Спроба завершити ще раз після докупівлі
-            Console.WriteLine("\n--- Повторна спроба завершити 'Браслет 'Океан'' після докупівлі ---");
-            workshop.CompleteWork("Бraслет 'Океан'"); // Виправлено потенційну опечатку в назві
-        }
-
-        Console.WriteLine("\n--- Спроба завершити 'Ніжна фіалка' ---");
-        workshop.CompleteWork("Ніжна фіалка"); // Можливо, не вистачить бісеру
+        // --- Функція для циклічної докупівлі та спроби завершення ---
+        // Це дозволяє уникнути дублювання коду
+        TryCompleteAndBuyUntilEnough(workshop, flower1);
+        TryCompleteAndBuyUntilEnough(workshop, bracelet1);
+        TryCompleteAndBuyAndStopIfCannotBuy(workshop, flower2); // Для фіалки не будемо купувати безкінечно
 
         // Перевіряємо потребу в докупівлі
-        Console.WriteLine("\n  Перевіряємо потребу в докупівлі...");
-        workshop.Sklad.ChyPotribnaDocupivlya(60); // Мінімальна кількість 60 намистин на складі
+        Console.WriteLine("\nПеревіряємо потребу в докупівлі...");
+        workshop.Sklad.ChyPotribnaDocupivlya(60);
 
         // Фінальний стан майстерні
         Console.WriteLine("\n" + new string('=', 50));
         workshop.VyvestyStanMaysterny();
 
         // Демонстрація ітератора (foreach)
-        Console.WriteLine("\n  Перебір всього бісеру на складі:");
+        Console.WriteLine("\nПеребір всього бісеру на складі:");
         int count = 0;
         foreach (IBiser biser in workshop.Sklad)
         {
-            if (count < 5) // Показуємо тільки перші 5 намистин для прикладу
+            if (count < 5)
             {
                 Console.WriteLine($"    - {biser}");
                 count++;
             }
             else
             {
-                // Якщо бісеру більше, ніж 5, не виводимо все, щоб не захаращувати консоль
-                Console.WriteLine($"    ... та ще {workshop.Sklad.GetTotalBiserCount() - 5} намистин");
+                Console.WriteLine($"    ... та ще {workshop.Sklad.GetTotalBiserCount() - 5} намистин (повний список дивіться у логах складу)");
                 break;
             }
         }
 
-        Console.WriteLine("\n  Демонстрація завершена!  ✨ ");
+        Console.WriteLine("\nДемонстрація завершена!");
+    }
+
+    // Спроба завершити виріб, і якщо не вистачає бісеру, докуповувати його до тих пір, поки не вистачить.
+    private static void TryCompleteAndBuyUntilEnough(BiserWorkshop workshop, Virob virob)
+    {
+        Console.WriteLine($"\n--- Спроба завершити '{virob.Name}' ---");
+
+        // Якщо CompleteWork повертає false, це означає, що бісеру не вистачило
+        BiserRequirement[] missingReqs = workshop.CompleteWorkWithMissing(virob);
+
+        // Цикл буде продовжуватися, поки є відсутні вимоги
+        while (missingReqs.Length > 0)
+        {
+            Console.WriteLine($"Не вистачило бісеру для '{virob.Name}'. Докуповуємо!");
+
+            // Докуповуємо кожен тип бісеру, якого не вистачає
+            for (int i = 0; i < missingReqs.Length; i++)
+            {
+                BiserRequirement req = missingReqs[i];
+                Console.WriteLine($"    Потрібно докупити: {req.Quantity - req.AvailableQuantity} шт. {req.Color} бісеру, розмір >={req.MinSize:F1}мм, якість >={req.MinQuality}.");
+
+                // Визначаємо, чи потрібен якісний "чеський" бісер
+                bool isCzech = req.MinQuality >= 8; // Припустимо, якість 8 і вище - це "чеський"
+
+                // Купуємо пакет з бажаним кольором, якістю та діапазоном розмірів.
+                // Додаємо невеликий діапазон 0.5мм до minSize для реалістичності.
+                BiserGenerator.BuySimulatedBiserPackage(workshop.Sklad, req.Color, isCzech, req.MinSize, req.MinSize + 0.5);
+            }
+
+            // Виводимо стан складу після докупівлі
+            Console.WriteLine("\n--- Стан складу після докупівлі: ---");
+            workshop.Sklad.VyvestyDetalnyyStanSkladu();
+
+            // Повторна спроба завершити виріб
+            Console.WriteLine($"\n--- Повторна спроба завершити '{virob.Name}' після докупівлі ---");
+            missingReqs = workshop.CompleteWorkWithMissing(virob);
+        }
+    }
+
+    // Спроба завершити виріб, і якщо не вистачає бісеру, докуповувати його тільки 2 рази.
+    // Якщо після цього все одно не вистачить - відмінити.
+    private static void TryCompleteAndBuyAndStopIfCannotBuy(BiserWorkshop workshop, Virob virob)
+    {
+        Console.WriteLine($"\n--- Спроба завершити '{virob.Name}' ---");
+        int maxBuyAttempts = 2; // Обмеження на кількість спроб докупівлі
+        int currentAttempt = 0;
+
+        BiserRequirement[] missingReqs = workshop.CompleteWorkWithMissing(virob);
+
+        while (missingReqs.Length > 0 && currentAttempt < maxBuyAttempts)
+        {
+            Console.WriteLine($"Не вистачило бісеру для '{virob.Name}'. Докуповуємо (спроба {currentAttempt + 1} з {maxBuyAttempts})!");
+            for (int i = 0; i < missingReqs.Length; i++)
+            {
+                BiserRequirement req = missingReqs[i];
+                Console.WriteLine($"    Потрібно докупити: {req.Quantity - req.AvailableQuantity} шт. {req.Color} бісеру, розмір >={req.MinSize:F1}мм, якість >={req.MinQuality}.");
+                bool isCzech = req.MinQuality >= 8;
+                BiserGenerator.BuySimulatedBiserPackage(workshop.Sklad, req.Color, isCzech, req.MinSize, req.MinSize + 0.5);
+            }
+
+            Console.WriteLine("\n--- Стан складу після докупівлі: ---");
+            workshop.Sklad.VyvestyDetalnyyStanSkladu();
+
+            Console.WriteLine($"\n--- Повторна спроба завершити '{virob.Name}' після докупівлі ---");
+            missingReqs = workshop.CompleteWorkWithMissing(virob);
+            currentAttempt++;
+        }
+
+        if (missingReqs.Length > 0)
+        {
+            Console.WriteLine($"\nВиріб '{virob.Name}' не вдалося завершити після {maxBuyAttempts} спроб докупівлі. Відміна.");
+        }
     }
 }

@@ -12,9 +12,6 @@ namespace ConsoleApp2.Interfaces
         // Додає намистину на склад.
         void AddBiser(IBiser biser);
 
-        // Відбирає певну кількість намистин за заданими критеріями.
-        IBiser[] VidibratyBiser(int kilkist, BiserColor requiredColor, int minQuality, double minSize);
-
         // Перевіряє, чи потрібна докупівля бісеру, виходячи із загальної кількості.
         bool ChyPotribnaDocupivlya(int minTotal);
 

@@ -50,8 +50,8 @@ namespace ConsoleApp2.Utils
             ProfessionalBiserSklad sklad,
             BiserColor biserColor,
             bool isQualityCzech,
-            double desiredMinSize = 2.0, // Додано параметр для бажаного мінімального розміру
-            double desiredMaxSize = 4.0) // Додано параметр для бажаного максимального розміру
+            double desiredMinSize, // Додано параметр для бажаного мінімального розміру
+            double desiredMaxSize) // Додано параметр для бажаного максимального розміру
         {
             int beadsInBag;
             double bagPrice;
@@ -73,15 +73,9 @@ namespace ConsoleApp2.Utils
                 brand = "Звичайний";
             }
 
-            Console.WriteLine($"\n    Виріб '{biserColor}, Якість:{quality}/10, {beadsInBag} шт. за {bagPrice:C} (Розмір: {desiredMinSize:F1}-{desiredMaxSize:F1}мм)");
+            Console.WriteLine($"\nКупуємо пакет бісеру: Бренд:{brand}, Колір:{biserColor}, Якість:{quality}/10, {beadsInBag} шт. за {bagPrice:F2}грн. (Розмір: {desiredMinSize:F1}-{desiredMaxSize:F1}мм)");
 
-            for (int i = 0; i < beadsInBag; i++)
-            {
-                // Генеруємо розмір бісеру в межах бажаного діапазону
-                double generatedSize = desiredMinSize + _random.NextDouble() * (desiredMaxSize - desiredMinSize);
-                sklad.AddBiser(new Biser(biserColor, generatedSize, quality, brand));
-            }
-            Console.WriteLine($"      Додано {beadsInBag} намистин на склад. Загальні витрати: {sklad.TotalSpentCost:C}");
+            sklad.BuyBiserPackage(biserColor, quality, bagPrice, beadsInBag);
         }
     }
 }
